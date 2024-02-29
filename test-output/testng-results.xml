@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T13:06:45 IST" name="Suite" finished-at="2024-02-29T13:06:57 IST" duration-ms="11700">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T13:06:45 IST" name="AutomationExercise" finished-at="2024-02-29T13:06:57 IST" duration-ms="11700">
+      <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:46 IST" name="setup" finished-at="2024-02-29T13:06:47 IST" duration-ms="1658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addreviewonproduct()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:47 IST" name="addreviewonproduct" finished-at="2024-02-29T13:06:57 IST" duration-ms="9522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addreviewonproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:57 IST" name="tearDown" finished-at="2024-02-29T13:06:57 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_21_AddReviewOnProduct -->
+    </test> <!-- AutomationExercise -->
+  </suite> <!-- Suite -->
+</testng-results>

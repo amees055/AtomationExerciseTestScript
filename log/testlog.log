@@ -1,0 +1,2574 @@
+2024-01-31 11:39:15,098 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 11:39:19,677 - Automationtesting -INFO - URL is Opened
+2024-01-31 11:39:20,768 - Automationtesting -INFO - Username is Entered
+2024-01-31 11:39:20,828 - Automationtesting -INFO - password is Entered
+2024-01-31 11:39:22,952 - Automationtesting -INFO - SignIn Successful
+2024-01-31 11:39:25,329 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 11:39:28,435 - Automationtesting -INFO - URL is Opened
+2024-01-31 11:39:28,440 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 11:39:29,992 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 11:39:30,047 - Automationtesting -INFO - name is Entered
+2024-01-31 11:39:30,108 - Automationtesting -INFO - email is Entered
+2024-01-31 11:39:31,727 - Automationtesting -INFO - Verified! Enter account information text
+2024-01-31 11:39:32,239 - Automationtesting -INFO - Date selected successfully
+2024-01-31 11:39:32,298 - Automationtesting -INFO - Entered FirstName
+2024-01-31 11:39:32,349 - Automationtesting -INFO - Entered LastName
+2024-01-31 11:39:32,397 - Automationtesting -INFO - Entered Company
+2024-01-31 11:39:32,445 - Automationtesting -INFO - Entered Address
+2024-01-31 11:39:32,497 - Automationtesting -INFO - Entered Address2
+2024-01-31 11:39:32,594 - Automationtesting -INFO - Country Selected
+2024-01-31 11:39:32,656 - Automationtesting -INFO - Entered State
+2024-01-31 11:39:32,702 - Automationtesting -INFO - Entered city
+2024-01-31 11:39:32,753 - Automationtesting -INFO - Entered zipcode
+2024-01-31 11:39:32,807 - Automationtesting -INFO - Entered mobilenumebr
+2024-01-31 11:39:34,283 - Automationtesting -INFO - Verified! Account created
+2024-01-31 11:39:41,696 - Automationtesting -INFO - Verified! user logged in as test1
+2024-01-31 11:39:43,227 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-01-31 11:52:26,200 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 11:52:29,383 - Automationtesting -INFO - URL is Opened
+2024-01-31 11:52:29,389 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 11:52:30,833 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 11:52:30,915 - Automationtesting -INFO - Username is Entered
+2024-01-31 11:52:31,003 - Automationtesting -INFO - password is Entered
+2024-01-31 11:52:33,868 - Automationtesting -INFO - SignIn Successful
+2024-01-31 11:52:33,893 - Automationtesting -INFO - Verified! user logged in as seema
+2024-01-31 11:52:34,752 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-01-31 12:00:05,458 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:00:08,510 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:00:08,515 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:00:09,522 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:00:09,612 - Automationtesting -INFO - Username is Entered
+2024-01-31 12:00:09,702 - Automationtesting -INFO - password is Entered
+2024-01-31 12:00:10,633 - Automationtesting -INFO - SignIn Successful
+2024-01-31 12:00:13,046 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:00:16,235 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:00:16,241 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:00:17,586 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:00:17,640 - Automationtesting -INFO - name is Entered
+2024-01-31 12:00:17,709 - Automationtesting -INFO - email is Entered
+2024-01-31 12:00:19,297 - Automationtesting -INFO - Verified! Enter account information text
+2024-01-31 12:00:19,836 - Automationtesting -INFO - Date selected successfully
+2024-01-31 12:00:19,907 - Automationtesting -INFO - Entered FirstName
+2024-01-31 12:00:19,958 - Automationtesting -INFO - Entered LastName
+2024-01-31 12:00:20,005 - Automationtesting -INFO - Entered Company
+2024-01-31 12:00:20,056 - Automationtesting -INFO - Entered Address
+2024-01-31 12:00:20,109 - Automationtesting -INFO - Entered Address2
+2024-01-31 12:00:20,209 - Automationtesting -INFO - Country Selected
+2024-01-31 12:00:20,290 - Automationtesting -INFO - Entered State
+2024-01-31 12:00:20,339 - Automationtesting -INFO - Entered city
+2024-01-31 12:00:20,386 - Automationtesting -INFO - Entered zipcode
+2024-01-31 12:00:20,442 - Automationtesting -INFO - Entered mobilenumebr
+2024-01-31 12:00:21,924 - Automationtesting -INFO - Verified! Account created
+2024-01-31 12:00:29,041 - Automationtesting -INFO - Verified! user logged in as test1
+2024-01-31 12:00:44,924 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:00:49,628 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:00:49,637 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:00:50,599 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:00:50,693 - Automationtesting -INFO - Username is Entered
+2024-01-31 12:00:50,807 - Automationtesting -INFO - password is Entered
+2024-01-31 12:00:51,753 - Automationtesting -INFO - SignIn Successful
+2024-01-31 12:00:54,189 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:00:57,318 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:00:57,322 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:00:59,126 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:00:59,179 - Automationtesting -INFO - name is Entered
+2024-01-31 12:00:59,247 - Automationtesting -INFO - email is Entered
+2024-01-31 12:01:00,726 - Automationtesting -INFO - Verified! Enter account information text
+2024-01-31 12:01:01,255 - Automationtesting -INFO - Date selected successfully
+2024-01-31 12:01:01,317 - Automationtesting -INFO - Entered FirstName
+2024-01-31 12:01:01,366 - Automationtesting -INFO - Entered LastName
+2024-01-31 12:01:01,413 - Automationtesting -INFO - Entered Company
+2024-01-31 12:01:01,462 - Automationtesting -INFO - Entered Address
+2024-01-31 12:01:01,514 - Automationtesting -INFO - Entered Address2
+2024-01-31 12:01:01,613 - Automationtesting -INFO - Country Selected
+2024-01-31 12:01:01,700 - Automationtesting -INFO - Entered State
+2024-01-31 12:01:01,751 - Automationtesting -INFO - Entered city
+2024-01-31 12:01:01,798 - Automationtesting -INFO - Entered zipcode
+2024-01-31 12:01:01,853 - Automationtesting -INFO - Entered mobilenumebr
+2024-01-31 12:01:03,821 - Automationtesting -INFO - Verified! Account created
+2024-01-31 12:01:08,901 - Automationtesting -INFO - Verified! user logged in as test1
+2024-01-31 12:01:09,875 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-01-31 12:04:21,184 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:04:24,502 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:04:24,509 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:04:25,556 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:04:25,642 - Automationtesting -INFO - Username is Entered
+2024-01-31 12:04:25,733 - Automationtesting -INFO - password is Entered
+2024-01-31 12:04:29,282 - Automationtesting -INFO - SignIn Successful
+2024-01-31 12:04:29,306 - Automationtesting -INFO - Verified! user logged in as seema
+2024-01-31 12:04:30,247 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-01-31 12:04:36,188 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:04:39,220 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:04:39,229 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:04:40,424 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:04:40,474 - Automationtesting -INFO - name is Entered
+2024-01-31 12:04:40,535 - Automationtesting -INFO - email is Entered
+2024-01-31 12:04:42,096 - Automationtesting -INFO - Verified! Enter account information text
+2024-01-31 12:04:42,627 - Automationtesting -INFO - Date selected successfully
+2024-01-31 12:04:42,708 - Automationtesting -INFO - Entered FirstName
+2024-01-31 12:04:42,761 - Automationtesting -INFO - Entered LastName
+2024-01-31 12:04:42,812 - Automationtesting -INFO - Entered Company
+2024-01-31 12:04:42,866 - Automationtesting -INFO - Entered Address
+2024-01-31 12:04:42,922 - Automationtesting -INFO - Entered Address2
+2024-01-31 12:04:43,030 - Automationtesting -INFO - Country Selected
+2024-01-31 12:04:43,110 - Automationtesting -INFO - Entered State
+2024-01-31 12:04:43,161 - Automationtesting -INFO - Entered city
+2024-01-31 12:04:43,212 - Automationtesting -INFO - Entered zipcode
+2024-01-31 12:04:43,271 - Automationtesting -INFO - Entered mobilenumebr
+2024-01-31 12:04:44,790 - Automationtesting -INFO - Verified! Account created
+2024-01-31 12:04:52,537 - Automationtesting -INFO - Verified! user logged in as test1
+2024-01-31 12:04:53,891 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-01-31 12:14:05,765 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:14:10,429 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:14:10,436 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:14:11,892 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:14:11,980 - Automationtesting -INFO - Username is Entered
+2024-01-31 12:14:12,084 - Automationtesting -INFO - password is Entered
+2024-01-31 12:14:13,057 - Automationtesting -INFO - ERROr! Your email or password is incorrect!
+2024-01-31 12:21:39,414 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:21:44,120 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:21:44,126 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:21:45,168 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:21:45,277 - Automationtesting -INFO - Username is Entered
+2024-01-31 12:21:45,398 - Automationtesting -INFO - password is Entered
+2024-01-31 12:21:48,140 - Automationtesting -INFO - SignIn Successful
+2024-01-31 12:21:48,161 - Automationtesting -INFO - Verified! user logged in as seema
+2024-01-31 12:21:49,490 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-01-31 12:28:23,761 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:28:26,951 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:28:26,960 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:28:27,964 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:28:28,030 - Automationtesting -INFO - name is Entered
+2024-01-31 12:28:28,089 - Automationtesting -INFO - email is Entered
+2024-01-31 12:28:29,221 - Automationtesting -INFO - Verified! Enter account information text
+2024-01-31 12:28:29,786 - Automationtesting -INFO - Date selected successfully
+2024-01-31 12:28:29,861 - Automationtesting -INFO - Entered FirstName
+2024-01-31 12:28:29,915 - Automationtesting -INFO - Entered LastName
+2024-01-31 12:28:29,965 - Automationtesting -INFO - Entered Company
+2024-01-31 12:28:30,015 - Automationtesting -INFO - Entered Address
+2024-01-31 12:28:30,068 - Automationtesting -INFO - Entered Address2
+2024-01-31 12:28:30,190 - Automationtesting -INFO - Country Selected
+2024-01-31 12:28:30,318 - Automationtesting -INFO - Entered State
+2024-01-31 12:28:30,380 - Automationtesting -INFO - Entered city
+2024-01-31 12:28:30,514 - Automationtesting -INFO - Entered zipcode
+2024-01-31 12:28:30,587 - Automationtesting -INFO - Entered mobilenumebr
+2024-01-31 12:28:32,470 - Automationtesting -INFO - Verified! Account created
+2024-01-31 12:28:34,919 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:28:38,223 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:28:38,232 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:28:39,353 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:28:39,405 - Automationtesting -INFO - name is Entered
+2024-01-31 12:28:39,465 - Automationtesting -INFO - email is Entered
+2024-01-31 12:28:40,557 - Automationtesting -INFO - ERROr! Email Address already exist!
+2024-01-31 12:38:06,997 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:38:10,474 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:38:10,483 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:38:11,491 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:38:11,550 - Automationtesting -INFO - name is Entered
+2024-01-31 12:38:11,598 - Automationtesting -INFO - email is Entered
+2024-01-31 12:38:14,948 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:38:18,869 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:38:18,875 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 12:38:20,260 - Automationtesting -INFO - Verified! User New user signup
+2024-01-31 12:38:20,316 - Automationtesting -INFO - name is Entered
+2024-01-31 12:38:20,379 - Automationtesting -INFO - email is Entered
+2024-01-31 12:38:21,473 - Automationtesting -INFO - ERROr! Email Address already exist!
+2024-01-31 12:39:55,722 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:40:00,534 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:40:00,543 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:40:02,544 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:43:31,024 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:43:34,244 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:43:34,249 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:43:35,538 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:45:36,838 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:45:39,832 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:45:39,839 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:45:40,691 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:45:40,761 - Automationtesting -INFO - name is Entered
+2024-01-31 12:45:40,890 - Automationtesting -INFO - email is Entered
+2024-01-31 12:49:09,050 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:49:12,314 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:49:12,322 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:49:13,324 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:49:29,173 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:49:32,464 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:49:32,470 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:49:34,212 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:50:09,808 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:50:13,304 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:50:13,311 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:50:14,672 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:51:07,438 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:51:12,048 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:51:12,057 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:51:13,320 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:56:23,978 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:56:27,015 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:56:27,023 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:56:28,257 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 12:58:07,005 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 12:58:10,055 - Automationtesting -INFO - URL is Opened
+2024-01-31 12:58:10,061 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 12:58:11,422 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:00:24,716 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:00:29,308 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:00:29,313 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:00:30,703 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:01:12,047 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:01:16,733 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:01:16,882 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:01:18,094 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:02:34,314 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:02:37,423 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:02:37,561 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:02:38,731 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:07:42,411 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:07:47,173 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:07:47,183 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:07:48,943 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:08:16,224 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:08:19,636 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:08:19,642 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:08:21,082 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:10:13,707 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:10:17,157 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:10:17,163 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:10:18,297 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:11:07,149 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:11:12,060 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:11:12,069 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:11:13,458 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:12:18,231 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:12:21,425 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:12:21,431 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:12:22,577 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:13:16,989 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:13:20,752 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:13:20,764 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:13:21,822 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:14:53,867 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:14:57,068 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:14:57,080 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:14:58,863 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:20:52,354 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:20:55,579 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:20:55,585 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:20:56,757 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:24:26,682 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 13:24:29,771 - Automationtesting -INFO - URL is Opened
+2024-01-31 13:24:29,777 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 13:24:31,357 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 13:24:31,791 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-01-31 13:24:34,039 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 15:31:53,923 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 15:31:59,804 - Automationtesting -INFO - URL is Opened
+2024-01-31 15:31:59,813 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 15:32:01,002 - Automationtesting -INFO - Test Case is visible
+2024-01-31 15:39:56,443 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 15:40:00,511 - Automationtesting -INFO - URL is Opened
+2024-01-31 15:40:00,517 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 15:40:02,366 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 15:40:52,959 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 15:40:56,324 - Automationtesting -INFO - URL is Opened
+2024-01-31 15:40:56,331 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:09:58,376 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:10:01,940 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:10:01,960 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:10:04,223 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:10:45,221 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:10:48,267 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:10:48,283 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:10:52,475 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:19:44,069 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:19:48,529 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:19:48,549 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:19:51,537 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:21:34,979 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:21:38,203 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:21:38,224 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:21:40,145 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:23:59,400 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:24:09,930 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:24:09,950 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:24:14,396 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:26:15,304 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:26:18,539 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:26:18,557 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:26:20,624 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:26:41,422 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:26:44,441 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:26:44,463 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:26:46,515 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:27:24,595 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:27:27,453 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:27:27,473 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:27:29,297 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:31:00,563 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:31:17,184 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:31:17,207 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:31:27,235 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:31:40,076 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:31:40,096 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:31:47,760 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:34:36,488 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:34:40,278 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:34:40,291 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:35:05,106 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:35:09,677 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:35:09,698 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:35:12,041 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:35:19,894 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:35:24,023 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:35:24,042 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:35:32,611 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:35:36,005 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:35:36,022 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:35:38,729 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:35:48,171 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:35:51,632 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:35:51,652 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:35:54,423 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:36:26,996 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:36:40,421 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:36:40,443 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:36:45,553 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:37:34,077 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:37:38,251 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:37:38,262 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:37:55,754 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:38:07,939 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:38:07,958 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:38:13,156 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:38:26,827 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:38:39,255 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:38:39,274 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:38:44,597 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 16:38:58,734 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 16:39:03,608 - Automationtesting -INFO - URL is Opened
+2024-01-31 16:39:03,632 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 16:39:21,540 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:14:33,255 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:14:36,425 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:14:36,435 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:14:39,647 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:18:04,122 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:18:07,726 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:18:07,745 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:18:10,728 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:18:31,679 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:18:34,817 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:18:34,836 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:18:37,542 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:19:13,269 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:19:17,210 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:19:17,224 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:19:58,830 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:20:02,373 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:20:02,390 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:20:06,033 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:21:10,422 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:21:13,805 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:21:13,825 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:21:16,520 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:27:11,275 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:27:22,938 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:27:22,957 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:27:27,293 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:27:49,959 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:27:54,115 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:27:54,138 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:27:55,915 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 17:56:57,448 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 17:57:30,880 - Automationtesting -INFO - URL is Opened
+2024-01-31 17:57:30,900 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 17:57:33,012 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 17:57:34,078 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-01-31 17:57:41,097 - Automationtesting -INFO - Homepage is visible successfully
+2024-01-31 18:00:38,928 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:00:42,011 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:00:42,030 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:00:43,612 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:00:56,130 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:00:59,234 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:00:59,255 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:01:00,704 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:01:23,653 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:04:41,676 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:04:44,570 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:04:44,590 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:04:46,051 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:04:56,205 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:05:04,992 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:05:05,016 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:05:06,682 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:05:17,385 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:05:20,295 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:05:20,317 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:05:23,015 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:07:03,668 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:07:19,785 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:07:19,802 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:07:21,593 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:10:33,165 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:10:46,088 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:10:46,110 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:10:49,819 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:17:08,538 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:17:09,817 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:17:13,383 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:17:14,687 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:21:02,420 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:21:06,577 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:21:06,596 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:21:07,952 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:24:34,390 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:24:38,004 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:24:38,019 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:24:39,617 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:33:46,167 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:33:50,978 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:33:50,999 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:33:52,520 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-01-31 18:35:41,533 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-01-31 18:35:53,506 - Automationtesting -INFO - URL is Opened
+2024-01-31 18:35:53,522 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-01-31 18:35:55,505 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 09:57:22,074 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 09:57:25,017 - Automationtesting -INFO - URL is Opened
+2024-02-01 09:57:25,036 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 09:57:27,087 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:09:28,974 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:09:32,269 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:09:32,282 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:09:33,973 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:09:46,533 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:09:50,958 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:09:50,980 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:09:53,493 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:11:47,327 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:11:50,302 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:11:50,319 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:11:52,803 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:11:59,851 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:12:03,861 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:12:03,878 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:12:06,660 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:16:43,628 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:16:47,310 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:16:47,329 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:16:48,609 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:18:29,101 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:18:32,018 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:18:32,035 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:18:34,737 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:18:51,695 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:18:54,982 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:18:55,008 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:18:56,355 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:28:33,308 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:28:37,471 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:28:37,499 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:28:38,876 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:34:00,982 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:34:04,170 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:34:04,190 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:34:05,484 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:37:16,324 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:37:19,975 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:37:19,993 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:37:21,356 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:45:34,180 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:45:37,258 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:45:37,278 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:45:39,047 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:45:39,915 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 10:45:42,397 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 10:46:17,162 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:46:21,214 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:46:21,232 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:46:22,973 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:46:24,013 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 10:47:15,052 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 10:47:18,297 - Automationtesting -INFO - URL is Opened
+2024-02-01 10:47:18,321 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 10:47:20,047 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 10:47:23,885 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 10:47:27,561 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 15:35:02,014 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:35:05,736 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:35:05,743 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:35:37,382 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:35:59,806 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:35:59,814 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:36:01,342 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:36:04,855 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:36:06,763 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 15:37:42,363 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:37:45,696 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:37:45,704 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:37:47,138 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:38:43,841 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:38:47,122 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:38:47,131 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:40:21,852 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:40:25,215 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:40:25,221 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:40:26,120 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:40:29,857 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:41:05,244 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:41:09,066 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:41:09,076 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:41:10,665 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:41:14,151 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:41:16,484 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 15:42:43,838 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:42:46,974 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:42:46,980 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:43:17,735 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:43:20,656 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:43:20,661 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:44:03,905 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:44:07,325 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:44:07,338 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:44:09,627 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:44:13,103 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:56:35,722 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:56:39,162 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:56:39,168 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:56:40,341 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:56:43,978 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:56:46,325 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 15:58:48,995 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 15:58:52,008 - Automationtesting -INFO - URL is Opened
+2024-02-01 15:58:52,015 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 15:58:53,484 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 15:58:59,207 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 15:59:02,027 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 16:10:18,674 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:10:21,905 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:10:21,916 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:10:24,323 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 16:10:29,780 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 16:17:48,846 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:17:51,865 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:17:51,872 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:18:16,650 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:18:19,831 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:18:19,837 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:18:20,722 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 16:18:26,301 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 16:25:31,487 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:25:34,396 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:25:34,406 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:25:37,327 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 16:25:42,626 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:25:45,410 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:25:45,418 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:25:48,309 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 16:25:53,714 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 16:25:56,793 - Automationtesting -INFO - URL is Opened
+2024-02-01 16:25:56,800 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 16:25:58,513 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 18:42:46,260 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:42:49,478 - Automationtesting -INFO - URL is Opened
+2024-02-01 18:42:49,484 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-01 18:42:51,211 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-01 18:42:56,620 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-01 18:42:59,172 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-01 18:43:21,728 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:43:32,017 - Automationtesting -INFO - bhandup
+2024-02-01 18:43:39,686 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:43:44,897 - Automationtesting -INFO - bhandup
+2024-02-01 18:44:48,117 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:44:51,538 - Automationtesting -INFO - verified!! home page
+2024-02-01 18:47:36,226 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:47:39,283 - Automationtesting -INFO - verified!! home page
+2024-02-01 18:47:45,113 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:47:48,320 - Automationtesting -INFO - verified!! home page
+2024-02-01 18:48:42,481 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:48:45,606 - Automationtesting -INFO - verified!! home page
+2024-02-01 18:49:07,975 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-01 18:49:11,175 - Automationtesting -INFO - verified!! home page
+2024-02-15 16:07:14,042 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:07:18,031 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:07:18,047 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:07:20,030 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:07:20,345 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:07:20,460 - Automationtesting -INFO - password is Entered
+2024-02-15 16:07:22,921 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:07:22,980 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-15 16:07:24,245 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-02-15 16:07:25,803 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:07:29,271 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:07:29,287 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:07:31,110 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:07:31,292 - Automationtesting -INFO - name is Entered
+2024-02-15 16:07:31,431 - Automationtesting -INFO - email is Entered
+2024-02-15 16:07:34,427 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:07:38,145 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:07:38,155 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:07:41,039 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:07:41,553 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:07:41,797 - Automationtesting -INFO - password is Entered
+2024-02-15 16:07:42,905 - Automationtesting -INFO - ERROr! Your email or password is incorrect!
+2024-02-15 16:07:43,833 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:07:46,958 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:07:46,979 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:07:49,064 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:07:49,232 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:07:49,415 - Automationtesting -INFO - password is Entered
+2024-02-15 16:07:50,198 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:07:51,208 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:07:55,011 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:07:55,024 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:07:57,649 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:07:57,797 - Automationtesting -INFO - name is Entered
+2024-02-15 16:07:57,891 - Automationtesting -INFO - email is Entered
+2024-02-15 16:07:59,793 - Automationtesting -INFO - ERROr! Email Address already exist!
+2024-02-15 16:08:00,690 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:08:04,289 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:08:04,302 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:08:06,880 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-15 16:08:12,533 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-15 16:08:14,158 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:08:17,367 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:08:17,378 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:08:18,408 - Automationtesting -INFO - Test Case txt is visible
+2024-02-15 16:08:19,352 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:08:22,999 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:08:23,018 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:08:27,192 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:08:28,429 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:08:31,679 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:08:31,688 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:08:34,325 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:08:39,324 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:08:42,343 - Automationtesting -INFO - verified!! home page
+2024-02-15 16:15:56,256 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:02,894 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:02,916 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:16:04,772 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:16:04,996 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:16:05,166 - Automationtesting -INFO - password is Entered
+2024-02-15 16:16:06,892 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:16:08,054 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:12,116 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:12,134 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:16:14,217 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:16:14,499 - Automationtesting -INFO - name is Entered
+2024-02-15 16:16:14,699 - Automationtesting -INFO - email is Entered
+2024-02-15 16:16:17,450 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:21,406 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:21,416 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:16:23,629 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:16:23,779 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:16:23,929 - Automationtesting -INFO - password is Entered
+2024-02-15 16:16:25,929 - Automationtesting -INFO - ERROr! Your email or password is incorrect!
+2024-02-15 16:16:27,048 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:31,017 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:31,033 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:16:33,609 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:16:33,749 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:16:33,871 - Automationtesting -INFO - password is Entered
+2024-02-15 16:16:34,992 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:16:35,978 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:39,227 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:39,235 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:16:40,557 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:16:40,837 - Automationtesting -INFO - name is Entered
+2024-02-15 16:16:41,052 - Automationtesting -INFO - email is Entered
+2024-02-15 16:16:42,922 - Automationtesting -INFO - ERROr! Email Address already exist!
+2024-02-15 16:16:44,003 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:16:48,680 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:16:48,696 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:16:49,908 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-15 16:16:55,600 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-15 16:16:57,273 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:17:00,537 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:17:00,549 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:17:02,576 - Automationtesting -INFO - Test Case txt is visible
+2024-02-15 16:17:03,543 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:17:06,477 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:17:06,495 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:17:10,063 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:17:11,228 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:17:14,321 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:17:14,354 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:17:16,867 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:17:22,112 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:17:25,325 - Automationtesting -INFO - verified!! home page
+2024-02-15 16:18:26,354 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:18:30,408 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:18:30,431 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:18:31,804 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:18:32,058 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:18:32,209 - Automationtesting -INFO - password is Entered
+2024-02-15 16:18:33,474 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:18:34,681 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:18:38,719 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:18:38,741 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:18:40,972 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:18:41,233 - Automationtesting -INFO - name is Entered
+2024-02-15 16:18:41,364 - Automationtesting -INFO - email is Entered
+2024-02-15 16:18:43,295 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:18:48,859 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:18:48,873 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:18:50,354 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:18:50,573 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:18:50,686 - Automationtesting -INFO - password is Entered
+2024-02-15 16:18:53,353 - Automationtesting -INFO - ERROr! Your email or password is incorrect!
+2024-02-15 16:18:54,452 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:18:57,268 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:18:57,317 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:18:58,671 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-15 16:18:58,869 - Automationtesting -INFO - Username is Entered
+2024-02-15 16:18:59,032 - Automationtesting -INFO - password is Entered
+2024-02-15 16:19:00,354 - Automationtesting -INFO - SignIn Successful
+2024-02-15 16:19:01,454 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:05,285 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:19:05,296 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:19:07,215 - Automationtesting -INFO - Verified! User New user signup
+2024-02-15 16:19:07,346 - Automationtesting -INFO - name is Entered
+2024-02-15 16:19:07,434 - Automationtesting -INFO - email is Entered
+2024-02-15 16:19:08,536 - Automationtesting -INFO - ERROr! Email Address already exist!
+2024-02-15 16:19:09,524 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:13,688 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:19:13,702 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:19:15,539 - Automationtesting -INFO - Verified! GET IN TOUCH is visible
+2024-02-15 16:19:21,238 - Automationtesting -INFO - Success! Your details have been submitted successfully
+2024-02-15 16:19:22,853 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:25,745 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:19:25,834 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:19:29,065 - Automationtesting -INFO - Test Case txt is visible
+2024-02-15 16:19:30,126 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:33,590 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:19:33,602 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:19:36,730 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:19:37,899 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:41,370 - Automationtesting -INFO - URL is Opened
+2024-02-15 16:19:41,422 - Automationtesting -INFO - verified! home screen is visible successfully
+2024-02-15 16:19:44,060 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-15 16:19:49,110 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:19:52,140 - Automationtesting -INFO - verified!! home page
+2024-02-15 16:29:46,072 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:29:51,377 - Automationtesting -INFO - verified!! home page
+2024-02-15 16:32:26,650 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-15 16:32:30,919 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:48:58,586 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:49:02,478 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:55:57,920 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:56:01,584 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:57:06,667 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:57:10,587 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:57:37,976 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:57:41,113 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:58:02,268 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:58:06,097 - Automationtesting -INFO - verified!! home page
+2024-02-20 16:58:32,212 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 16:58:36,210 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:14:53,894 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:14:57,477 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:16:33,374 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:16:36,562 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:42:31,193 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:42:34,142 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:48:42,159 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:48:46,052 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:52:35,476 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:52:38,957 - Automationtesting -INFO - verified!! home page
+2024-02-20 17:53:26,493 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 17:53:29,904 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:04:11,081 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:04:14,389 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:06:19,835 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:06:23,958 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:07:14,585 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:07:18,599 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:32:10,607 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:32:13,841 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:32:25,798 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:32:29,656 - Automationtesting -INFO - verified!! home page
+2024-02-20 18:32:40,716 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-20 18:32:43,610 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:20:15,199 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:20:18,306 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:20:27,249 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:20:29,968 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:21:55,107 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:21:57,972 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:22:04,586 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:22:07,289 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:22:51,338 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:22:54,863 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:23:01,132 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:23:04,309 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:23:11,192 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:23:14,116 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:29:17,838 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:29:20,711 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:29:55,845 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:29:58,537 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:30:25,478 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:30:29,295 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:30:36,066 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:30:39,932 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:31:10,198 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:31:13,332 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:31:19,850 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:31:22,905 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:31:29,684 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:31:32,795 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:31:41,028 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:31:44,164 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:31:51,888 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:31:55,682 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:32:02,892 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:32:06,296 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:32:23,587 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:32:26,662 - Automationtesting -INFO - verified!! home page
+2024-02-21 13:32:52,293 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 13:32:55,454 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:17:03,695 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:17:08,144 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:17:59,618 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:18:03,035 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:18:57,602 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:19:00,589 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:20:51,739 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:20:54,755 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:21:30,607 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:21:33,689 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:22:25,783 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:22:28,519 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:23:49,116 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:23:52,136 - Automationtesting -INFO - verified!! home page
+2024-02-21 15:24:52,525 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 15:25:00,313 - Automationtesting -INFO - verified!! home page
+2024-02-21 17:32:02,967 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 17:32:06,830 - Automationtesting -INFO - verified!! home page
+2024-02-21 17:32:43,044 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 17:32:46,883 - Automationtesting -INFO - verified!! home page
+2024-02-21 17:44:17,146 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 17:44:30,174 - Automationtesting -INFO - verified!! home page
+2024-02-21 17:52:19,409 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 17:52:23,177 - Automationtesting -INFO - verified!! home page
+2024-02-21 17:52:51,543 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 17:52:54,851 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:06:07,139 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:06:10,810 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:06:27,773 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:06:30,870 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:06:59,998 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:07:03,599 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:08:33,037 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:08:37,708 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:11:45,483 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:11:50,134 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:36:44,480 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:36:47,923 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:38:03,431 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:38:06,601 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:44:12,638 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:44:15,969 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:44:28,179 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:44:32,339 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:44:54,769 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:45:02,453 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:45:25,331 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:45:29,159 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:45:54,096 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:45:57,205 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:46:20,381 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:46:23,722 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:47:08,186 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:47:11,199 - Automationtesting -INFO - verified!! home page
+2024-02-21 18:47:41,214 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-21 18:47:44,611 - Automationtesting -INFO - verified!! home page
+2024-02-22 13:19:58,367 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 13:20:01,855 - Automationtesting -INFO - verified!! home page
+2024-02-22 17:41:54,582 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 17:41:57,643 - Automationtesting -INFO - verified!! home page
+2024-02-22 17:46:36,092 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 17:46:39,514 - Automationtesting -INFO - verified!! home page
+2024-02-22 18:04:07,006 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:04:10,048 - Automationtesting -INFO - verified!! home page
+2024-02-22 18:05:30,547 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:05:33,035 - Automationtesting -INFO - verified!! home page
+2024-02-22 18:05:38,288 - Automationtesting -INFO - {1=Rs. 500, 2=Rs. 400}
+2024-02-22 18:05:38,301 - Automationtesting -INFO - {1=Rs. 500, 2=Rs. 400}
+2024-02-22 18:06:38,194 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:06:41,832 - Automationtesting -INFO - verified!! home page
+2024-02-22 18:06:47,269 - Automationtesting -INFO - [[[EdgeDriver: MicrosoftEdge on windows (0b513428b513867dfb1fec2d0db2b110)] -> id: product-1]]
+2024-02-22 18:06:47,278 - Automationtesting -INFO - [[[EdgeDriver: MicrosoftEdge on windows (0b513428b513867dfb1fec2d0db2b110)] -> id: product-2]]
+2024-02-22 18:07:49,327 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:07:52,087 - Automationtesting -INFO - verified!! home page
+2024-02-22 18:07:57,395 - Automationtesting -INFO - Rs. 500
+2024-02-22 18:07:57,405 - Automationtesting -INFO - Rs. 400
+2024-02-22 18:18:25,842 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:20:50,116 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:21:02,243 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:21:16,198 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:22:33,278 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-22 18:23:03,525 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 15:58:35,259 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:06:26,980 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:10:01,708 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:10:20,332 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:13:53,081 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:18:44,258 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:19:20,545 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:19:37,179 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:20:35,501 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:20:49,143 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:21:10,281 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:30:55,441 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:31:55,688 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:32:32,862 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:32:50,911 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:34:19,710 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:59:20,624 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:59:23,131 - Automationtesting -INFO - Automation Exercise
+2024-02-26 16:59:49,654 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 16:59:53,388 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:01:42,422 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:01:44,998 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:04:56,532 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:05:00,187 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:06:11,989 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:06:15,232 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:07:29,432 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:07:33,030 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:08:09,349 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:08:12,606 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:08:40,978 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:08:44,437 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:10:02,092 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:10:04,942 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:13:06,950 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:13:10,616 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:13:23,146 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:13:23,213 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:13:23,268 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:13:23,321 - Automationtesting -INFO - Entered Company
+2024-02-26 17:13:23,374 - Automationtesting -INFO - Entered Address
+2024-02-26 17:13:23,428 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:13:23,531 - Automationtesting -INFO - Country Selected
+2024-02-26 17:13:23,592 - Automationtesting -INFO - Entered State
+2024-02-26 17:13:23,642 - Automationtesting -INFO - Entered city
+2024-02-26 17:13:23,692 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:13:23,751 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:14:00,133 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:14:02,829 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:14:16,152 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:14:16,223 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:14:16,273 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:14:16,323 - Automationtesting -INFO - Entered Company
+2024-02-26 17:14:16,375 - Automationtesting -INFO - Entered Address
+2024-02-26 17:14:16,431 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:14:16,537 - Automationtesting -INFO - Country Selected
+2024-02-26 17:14:16,608 - Automationtesting -INFO - Entered State
+2024-02-26 17:14:16,661 - Automationtesting -INFO - Entered city
+2024-02-26 17:14:16,716 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:14:16,774 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:16:38,819 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:16:41,616 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:16:55,015 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:16:55,082 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:16:55,137 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:16:55,196 - Automationtesting -INFO - Entered Company
+2024-02-26 17:16:55,253 - Automationtesting -INFO - Entered Address
+2024-02-26 17:16:55,306 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:16:55,415 - Automationtesting -INFO - Country Selected
+2024-02-26 17:16:55,484 - Automationtesting -INFO - Entered State
+2024-02-26 17:16:55,544 - Automationtesting -INFO - Entered city
+2024-02-26 17:16:55,608 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:16:55,670 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:16:57,967 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:17:04,265 - Automationtesting -INFO - Verified! ACCOUNT DELETED!
+2024-02-26 17:18:42,332 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:18:45,045 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:18:57,883 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:18:57,958 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:18:58,012 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:18:58,063 - Automationtesting -INFO - Entered Company
+2024-02-26 17:18:58,114 - Automationtesting -INFO - Entered Address
+2024-02-26 17:18:58,171 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:18:58,282 - Automationtesting -INFO - Country Selected
+2024-02-26 17:18:58,345 - Automationtesting -INFO - Entered State
+2024-02-26 17:18:58,397 - Automationtesting -INFO - Entered city
+2024-02-26 17:18:58,446 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:18:58,505 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:18:59,762 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:19:06,695 - Automationtesting -INFO - Verified! user logged in as test1
+2024-02-26 17:19:53,644 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:19:57,544 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:20:12,566 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:20:12,635 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:20:12,688 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:20:12,739 - Automationtesting -INFO - Entered Company
+2024-02-26 17:20:12,790 - Automationtesting -INFO - Entered Address
+2024-02-26 17:20:12,848 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:20:12,979 - Automationtesting -INFO - Country Selected
+2024-02-26 17:20:13,059 - Automationtesting -INFO - Entered State
+2024-02-26 17:20:13,110 - Automationtesting -INFO - Entered city
+2024-02-26 17:20:13,180 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:20:13,250 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:20:16,483 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:20:23,438 - Automationtesting -INFO - Verified! user logged in as test1
+2024-02-26 17:21:50,288 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:21:53,341 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:22:06,289 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:22:06,395 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:22:06,502 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:22:06,568 - Automationtesting -INFO - Entered Company
+2024-02-26 17:22:06,635 - Automationtesting -INFO - Entered Address
+2024-02-26 17:22:06,689 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:22:06,805 - Automationtesting -INFO - Country Selected
+2024-02-26 17:22:06,886 - Automationtesting -INFO - Entered State
+2024-02-26 17:22:06,947 - Automationtesting -INFO - Entered city
+2024-02-26 17:22:07,020 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:22:07,103 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:22:08,973 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:22:14,054 - Automationtesting -INFO - Verified! user logged in as test1
+2024-02-26 17:23:17,672 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:23:21,419 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:23:34,630 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:23:34,708 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:23:34,763 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:23:34,818 - Automationtesting -INFO - Entered Company
+2024-02-26 17:23:34,878 - Automationtesting -INFO - Entered Address
+2024-02-26 17:23:34,935 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:23:35,051 - Automationtesting -INFO - Country Selected
+2024-02-26 17:23:35,132 - Automationtesting -INFO - Entered State
+2024-02-26 17:23:35,188 - Automationtesting -INFO - Entered city
+2024-02-26 17:23:35,246 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:23:35,312 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:23:37,193 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:23:43,611 - Automationtesting -INFO - Verified! user logged in as test1
+2024-02-26 17:25:33,519 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:25:41,845 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:25:54,721 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:25:54,787 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:25:54,840 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:25:54,893 - Automationtesting -INFO - Entered Company
+2024-02-26 17:25:54,948 - Automationtesting -INFO - Entered Address
+2024-02-26 17:25:55,004 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:25:55,113 - Automationtesting -INFO - Country Selected
+2024-02-26 17:25:55,189 - Automationtesting -INFO - Entered State
+2024-02-26 17:25:55,240 - Automationtesting -INFO - Entered city
+2024-02-26 17:25:55,294 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:25:55,356 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:25:57,327 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:26:02,992 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 17:30:22,271 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:30:25,864 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:30:38,375 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:30:38,458 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:30:38,524 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:30:38,594 - Automationtesting -INFO - Entered Company
+2024-02-26 17:30:38,657 - Automationtesting -INFO - Entered Address
+2024-02-26 17:30:38,713 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:30:38,838 - Automationtesting -INFO - Country Selected
+2024-02-26 17:30:38,908 - Automationtesting -INFO - Entered State
+2024-02-26 17:30:38,962 - Automationtesting -INFO - Entered city
+2024-02-26 17:30:39,014 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:30:39,074 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:30:41,152 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:30:48,222 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 17:43:33,681 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:43:43,788 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:43:56,487 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:43:56,569 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:43:56,623 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:43:56,679 - Automationtesting -INFO - Entered Company
+2024-02-26 17:43:56,735 - Automationtesting -INFO - Entered Address
+2024-02-26 17:43:56,792 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:43:56,910 - Automationtesting -INFO - Country Selected
+2024-02-26 17:43:56,984 - Automationtesting -INFO - Entered State
+2024-02-26 17:43:57,042 - Automationtesting -INFO - Entered city
+2024-02-26 17:43:57,098 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:43:57,166 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:43:58,558 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:44:25,837 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 17:44:45,880 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:44:58,029 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:45:10,383 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:45:10,462 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:45:10,514 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:45:10,566 - Automationtesting -INFO - Entered Company
+2024-02-26 17:45:10,627 - Automationtesting -INFO - Entered Address
+2024-02-26 17:45:10,683 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:45:10,811 - Automationtesting -INFO - Country Selected
+2024-02-26 17:45:10,891 - Automationtesting -INFO - Entered State
+2024-02-26 17:45:10,954 - Automationtesting -INFO - Entered city
+2024-02-26 17:45:11,012 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:45:11,080 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:45:12,528 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:45:27,546 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 17:46:18,847 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 17:46:37,469 - Automationtesting -INFO - Automation Exercise
+2024-02-26 17:46:51,635 - Automationtesting -INFO - Date selected successfully
+2024-02-26 17:46:51,740 - Automationtesting -INFO - Entered FirstName
+2024-02-26 17:46:51,827 - Automationtesting -INFO - Entered LastName
+2024-02-26 17:46:51,924 - Automationtesting -INFO - Entered Company
+2024-02-26 17:46:52,008 - Automationtesting -INFO - Entered Address
+2024-02-26 17:46:52,124 - Automationtesting -INFO - Entered Address2
+2024-02-26 17:46:52,306 - Automationtesting -INFO - Country Selected
+2024-02-26 17:46:52,392 - Automationtesting -INFO - Entered State
+2024-02-26 17:46:52,448 - Automationtesting -INFO - Entered city
+2024-02-26 17:46:52,506 - Automationtesting -INFO - Entered zipcode
+2024-02-26 17:46:52,569 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 17:46:54,600 - Automationtesting -INFO - Verified! Account created
+2024-02-26 17:48:57,403 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:04:06,334 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:05:03,669 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:06:31,236 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:06:43,446 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:06:43,513 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:06:43,573 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:06:43,638 - Automationtesting -INFO - Entered Company
+2024-02-26 18:06:43,704 - Automationtesting -INFO - Entered Address
+2024-02-26 18:06:43,771 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:06:43,882 - Automationtesting -INFO - Country Selected
+2024-02-26 18:06:43,947 - Automationtesting -INFO - Entered State
+2024-02-26 18:06:44,001 - Automationtesting -INFO - Entered city
+2024-02-26 18:06:44,054 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:06:44,111 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:06:45,881 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:06:58,108 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:07:51,148 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:08:08,793 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:08:08,865 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:08:08,918 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:08:08,973 - Automationtesting -INFO - Entered Company
+2024-02-26 18:08:09,030 - Automationtesting -INFO - Entered Address
+2024-02-26 18:08:09,085 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:08:09,200 - Automationtesting -INFO - Country Selected
+2024-02-26 18:08:09,272 - Automationtesting -INFO - Entered State
+2024-02-26 18:08:09,324 - Automationtesting -INFO - Entered city
+2024-02-26 18:08:09,377 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:08:09,438 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:08:10,672 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:09:43,733 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:09:56,443 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-26 18:17:56,828 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:17:59,909 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:18:12,238 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:18:12,309 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:18:12,364 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:18:12,418 - Automationtesting -INFO - Entered Company
+2024-02-26 18:18:12,474 - Automationtesting -INFO - Entered Address
+2024-02-26 18:18:12,530 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:18:12,641 - Automationtesting -INFO - Country Selected
+2024-02-26 18:18:12,708 - Automationtesting -INFO - Entered State
+2024-02-26 18:18:12,758 - Automationtesting -INFO - Entered city
+2024-02-26 18:18:12,811 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:18:12,877 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:18:14,878 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:18:27,688 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:18:30,408 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:18:44,997 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:18:45,087 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:18:45,142 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:18:45,198 - Automationtesting -INFO - Entered Company
+2024-02-26 18:18:45,257 - Automationtesting -INFO - Entered Address
+2024-02-26 18:18:45,317 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:18:45,438 - Automationtesting -INFO - Country Selected
+2024-02-26 18:18:45,507 - Automationtesting -INFO - Entered State
+2024-02-26 18:18:45,566 - Automationtesting -INFO - Entered city
+2024-02-26 18:18:45,618 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:18:45,677 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:18:47,335 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:18:58,016 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:19:10,012 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-26 18:22:06,091 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:22:10,074 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:22:22,775 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:22:22,849 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:22:22,948 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:22:23,030 - Automationtesting -INFO - Entered Company
+2024-02-26 18:22:23,092 - Automationtesting -INFO - Entered Address
+2024-02-26 18:22:23,145 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:22:23,259 - Automationtesting -INFO - Country Selected
+2024-02-26 18:22:23,330 - Automationtesting -INFO - Entered State
+2024-02-26 18:22:23,384 - Automationtesting -INFO - Entered city
+2024-02-26 18:22:23,436 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:22:23,496 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:22:24,693 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:22:28,739 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:22:39,853 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-26 18:26:54,191 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:26:56,793 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:27:09,673 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:27:09,741 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:27:09,795 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:27:09,856 - Automationtesting -INFO - Entered Company
+2024-02-26 18:27:09,916 - Automationtesting -INFO - Entered Address
+2024-02-26 18:27:09,981 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:27:10,148 - Automationtesting -INFO - Country Selected
+2024-02-26 18:27:10,248 - Automationtesting -INFO - Entered State
+2024-02-26 18:27:10,323 - Automationtesting -INFO - Entered city
+2024-02-26 18:27:10,380 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:27:10,439 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:27:11,773 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:27:16,437 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:27:27,387 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-26 18:32:11,325 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:32:14,175 - Automationtesting -INFO - Automation Exercise
+2024-02-26 18:32:27,276 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:32:27,366 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:32:27,423 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:32:27,479 - Automationtesting -INFO - Entered Company
+2024-02-26 18:32:27,533 - Automationtesting -INFO - Entered Address
+2024-02-26 18:32:27,588 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:32:27,705 - Automationtesting -INFO - Country Selected
+2024-02-26 18:32:27,775 - Automationtesting -INFO - Entered State
+2024-02-26 18:32:27,827 - Automationtesting -INFO - Entered city
+2024-02-26 18:32:27,878 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:32:27,944 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:32:29,339 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:32:34,133 - Automationtesting -INFO - Verified! user logged in as test2
+2024-02-26 18:32:45,193 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-26 18:32:48,048 - Automationtesting -INFO - Verify success message 'ACCOUNT DELETED!'
+2024-02-26 18:37:59,893 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:38:02,481 - Automationtesting -INFO - URL is Opened
+2024-02-26 18:38:02,491 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-26 18:38:03,748 - Automationtesting -INFO - Verified! User New user signup
+2024-02-26 18:38:03,834 - Automationtesting -INFO - name is Entered
+2024-02-26 18:38:03,937 - Automationtesting -INFO - email is Entered
+2024-02-26 18:56:51,128 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:56:54,280 - Automationtesting -INFO - URL is Opened
+2024-02-26 18:56:54,288 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-26 18:56:55,577 - Automationtesting -INFO - Verified! User New user signup
+2024-02-26 18:56:55,676 - Automationtesting -INFO - name is Entered
+2024-02-26 18:56:55,786 - Automationtesting -INFO - email is Entered
+2024-02-26 18:56:56,822 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-26 18:56:57,368 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:56:57,445 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:56:57,500 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:56:57,552 - Automationtesting -INFO - Entered Company
+2024-02-26 18:56:57,610 - Automationtesting -INFO - Entered Address
+2024-02-26 18:56:57,664 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:56:57,768 - Automationtesting -INFO - Country Selected
+2024-02-26 18:56:57,906 - Automationtesting -INFO - Entered State
+2024-02-26 18:56:57,966 - Automationtesting -INFO - Entered city
+2024-02-26 18:56:58,015 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:56:58,081 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:56:59,570 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:59:22,337 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-26 18:59:25,819 - Automationtesting -INFO - URL is Opened
+2024-02-26 18:59:25,826 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-26 18:59:27,117 - Automationtesting -INFO - Verified! User New user signup
+2024-02-26 18:59:27,206 - Automationtesting -INFO - name is Entered
+2024-02-26 18:59:27,338 - Automationtesting -INFO - email is Entered
+2024-02-26 18:59:28,909 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-26 18:59:29,460 - Automationtesting -INFO - Date selected successfully
+2024-02-26 18:59:29,553 - Automationtesting -INFO - Entered FirstName
+2024-02-26 18:59:29,603 - Automationtesting -INFO - Entered LastName
+2024-02-26 18:59:29,652 - Automationtesting -INFO - Entered Company
+2024-02-26 18:59:29,704 - Automationtesting -INFO - Entered Address
+2024-02-26 18:59:29,756 - Automationtesting -INFO - Entered Address2
+2024-02-26 18:59:29,861 - Automationtesting -INFO - Country Selected
+2024-02-26 18:59:30,000 - Automationtesting -INFO - Entered State
+2024-02-26 18:59:30,061 - Automationtesting -INFO - Entered city
+2024-02-26 18:59:30,132 - Automationtesting -INFO - Entered zipcode
+2024-02-26 18:59:30,209 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-26 18:59:31,690 - Automationtesting -INFO - Verified! Account created
+2024-02-26 18:59:39,816 - Automationtesting -INFO - Verified! user logged in as User880609924
+2024-02-26 18:59:41,546 - Automationtesting -INFO - Verify success message 'ACCOUNT DELETED!'
+2024-02-27 11:50:33,709 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 11:50:53,649 - Automationtesting -INFO - URL is Opened
+2024-02-27 11:52:25,668 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 11:52:41,700 - Automationtesting -INFO - URL is Opened
+2024-02-27 11:52:41,729 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 11:52:43,864 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 11:52:44,130 - Automationtesting -INFO - name is Entered
+2024-02-27 11:52:44,246 - Automationtesting -INFO - email is Entered
+2024-02-27 11:52:46,200 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 11:52:47,630 - Automationtesting -INFO - Date selected successfully
+2024-02-27 11:52:47,787 - Automationtesting -INFO - Entered FirstName
+2024-02-27 11:52:47,962 - Automationtesting -INFO - Entered LastName
+2024-02-27 11:52:48,149 - Automationtesting -INFO - Entered Company
+2024-02-27 11:52:48,328 - Automationtesting -INFO - Entered Address
+2024-02-27 11:52:48,534 - Automationtesting -INFO - Entered Address2
+2024-02-27 11:52:48,922 - Automationtesting -INFO - Country Selected
+2024-02-27 11:52:49,148 - Automationtesting -INFO - Entered State
+2024-02-27 11:52:49,295 - Automationtesting -INFO - Entered city
+2024-02-27 11:52:49,457 - Automationtesting -INFO - Entered zipcode
+2024-02-27 11:52:49,665 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 11:53:08,008 - Automationtesting -INFO - Verified! Account created
+2024-02-27 11:53:13,214 - Automationtesting -INFO - Verified! user logged in as User1796073840
+2024-02-27 11:53:33,547 - Automationtesting -INFO - Verify success message 'ACCOUNT DELETED!'
+2024-02-27 12:39:26,967 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:39:30,903 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:39:30,930 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:41:44,099 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:41:47,639 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:41:47,661 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:41:48,980 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:41:49,295 - Automationtesting -INFO - name is Entered
+2024-02-27 12:41:49,429 - Automationtesting -INFO - email is Entered
+2024-02-27 12:41:51,244 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:41:52,359 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:41:52,459 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:41:52,567 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:41:52,708 - Automationtesting -INFO - Entered Company
+2024-02-27 12:41:52,859 - Automationtesting -INFO - Entered Address
+2024-02-27 12:41:53,047 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:41:53,380 - Automationtesting -INFO - Country Selected
+2024-02-27 12:41:53,618 - Automationtesting -INFO - Entered State
+2024-02-27 12:41:53,755 - Automationtesting -INFO - Entered city
+2024-02-27 12:41:53,911 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:41:54,101 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:41:56,147 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:43:52,544 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:43:59,793 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:43:59,815 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:44:00,889 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:44:01,236 - Automationtesting -INFO - name is Entered
+2024-02-27 12:44:01,429 - Automationtesting -INFO - email is Entered
+2024-02-27 12:44:02,588 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:44:04,331 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:44:04,512 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:44:04,738 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:44:04,899 - Automationtesting -INFO - Entered Company
+2024-02-27 12:44:05,081 - Automationtesting -INFO - Entered Address
+2024-02-27 12:44:05,202 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:44:05,561 - Automationtesting -INFO - Country Selected
+2024-02-27 12:44:05,754 - Automationtesting -INFO - Entered State
+2024-02-27 12:44:05,859 - Automationtesting -INFO - Entered city
+2024-02-27 12:44:06,013 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:44:06,207 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:44:08,376 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:44:27,785 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:44:32,122 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:44:32,156 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:44:33,692 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:44:34,061 - Automationtesting -INFO - name is Entered
+2024-02-27 12:44:34,218 - Automationtesting -INFO - email is Entered
+2024-02-27 12:44:36,311 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:44:37,713 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:44:37,893 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:44:38,044 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:44:38,224 - Automationtesting -INFO - Entered Company
+2024-02-27 12:44:38,437 - Automationtesting -INFO - Entered Address
+2024-02-27 12:44:38,635 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:44:38,970 - Automationtesting -INFO - Country Selected
+2024-02-27 12:44:39,154 - Automationtesting -INFO - Entered State
+2024-02-27 12:44:39,350 - Automationtesting -INFO - Entered city
+2024-02-27 12:44:39,496 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:44:39,623 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:44:41,876 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:46:53,559 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:46:57,360 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:46:57,383 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:46:58,992 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:46:59,433 - Automationtesting -INFO - name is Entered
+2024-02-27 12:46:59,576 - Automationtesting -INFO - email is Entered
+2024-02-27 12:47:01,671 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:47:03,114 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:47:03,299 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:47:03,465 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:47:03,619 - Automationtesting -INFO - Entered Company
+2024-02-27 12:47:03,771 - Automationtesting -INFO - Entered Address
+2024-02-27 12:47:03,909 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:47:04,170 - Automationtesting -INFO - Country Selected
+2024-02-27 12:47:04,352 - Automationtesting -INFO - Entered State
+2024-02-27 12:47:04,514 - Automationtesting -INFO - Entered city
+2024-02-27 12:47:04,662 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:47:04,803 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:47:07,344 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:47:12,560 - Automationtesting -INFO - Verified! user logged in as User304378388
+2024-02-27 12:48:38,483 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:48:42,163 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:48:42,186 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:48:43,662 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:48:43,936 - Automationtesting -INFO - name is Entered
+2024-02-27 12:48:44,082 - Automationtesting -INFO - email is Entered
+2024-02-27 12:48:46,140 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:48:47,365 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:48:47,525 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:48:47,688 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:48:47,797 - Automationtesting -INFO - Entered Company
+2024-02-27 12:48:47,958 - Automationtesting -INFO - Entered Address
+2024-02-27 12:48:48,102 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:48:48,415 - Automationtesting -INFO - Country Selected
+2024-02-27 12:48:48,626 - Automationtesting -INFO - Entered State
+2024-02-27 12:48:48,756 - Automationtesting -INFO - Entered city
+2024-02-27 12:48:48,869 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:48:48,980 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:48:51,087 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:48:56,333 - Automationtesting -INFO - Verified! user logged in as User1417133753
+2024-02-27 12:49:51,721 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:49:54,933 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:49:54,957 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:49:57,615 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:49:57,928 - Automationtesting -INFO - name is Entered
+2024-02-27 12:49:58,070 - Automationtesting -INFO - email is Entered
+2024-02-27 12:50:00,768 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:50:02,168 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:50:02,325 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:50:02,493 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:50:02,668 - Automationtesting -INFO - Entered Company
+2024-02-27 12:50:02,799 - Automationtesting -INFO - Entered Address
+2024-02-27 12:50:02,919 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:50:03,237 - Automationtesting -INFO - Country Selected
+2024-02-27 12:50:03,419 - Automationtesting -INFO - Entered State
+2024-02-27 12:50:03,525 - Automationtesting -INFO - Entered city
+2024-02-27 12:50:03,658 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:50:03,825 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:50:09,124 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:50:14,346 - Automationtesting -INFO - Verified! user logged in as User546321922
+2024-02-27 12:50:48,057 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:50:51,538 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:50:51,569 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:50:54,626 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:50:54,881 - Automationtesting -INFO - name is Entered
+2024-02-27 12:50:55,060 - Automationtesting -INFO - email is Entered
+2024-02-27 12:50:57,549 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:50:59,074 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:50:59,215 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:50:59,318 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:50:59,421 - Automationtesting -INFO - Entered Company
+2024-02-27 12:50:59,520 - Automationtesting -INFO - Entered Address
+2024-02-27 12:50:59,605 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:50:59,788 - Automationtesting -INFO - Country Selected
+2024-02-27 12:50:59,899 - Automationtesting -INFO - Entered State
+2024-02-27 12:51:00,063 - Automationtesting -INFO - Entered city
+2024-02-27 12:51:00,219 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:51:00,402 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:51:04,104 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:51:12,432 - Automationtesting -INFO - Verified! user logged in as User1143937699
+2024-02-27 12:52:38,615 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:52:41,717 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:52:41,741 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:52:43,119 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:52:43,337 - Automationtesting -INFO - name is Entered
+2024-02-27 12:52:43,528 - Automationtesting -INFO - email is Entered
+2024-02-27 12:52:45,520 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:52:47,009 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:52:47,196 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:52:47,325 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:52:47,475 - Automationtesting -INFO - Entered Company
+2024-02-27 12:52:47,614 - Automationtesting -INFO - Entered Address
+2024-02-27 12:52:47,720 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:52:47,943 - Automationtesting -INFO - Country Selected
+2024-02-27 12:52:48,104 - Automationtesting -INFO - Entered State
+2024-02-27 12:52:48,258 - Automationtesting -INFO - Entered city
+2024-02-27 12:52:48,420 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:52:48,588 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:52:50,708 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:52:56,009 - Automationtesting -INFO - Verified! user logged in as User719959965
+2024-02-27 12:53:12,080 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-27 12:54:42,094 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 12:54:48,374 - Automationtesting -INFO - URL is Opened
+2024-02-27 12:54:48,404 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 12:54:49,792 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 12:54:50,062 - Automationtesting -INFO - name is Entered
+2024-02-27 12:54:50,255 - Automationtesting -INFO - email is Entered
+2024-02-27 12:54:52,360 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 12:54:53,872 - Automationtesting -INFO - Date selected successfully
+2024-02-27 12:54:54,061 - Automationtesting -INFO - Entered FirstName
+2024-02-27 12:54:54,241 - Automationtesting -INFO - Entered LastName
+2024-02-27 12:54:54,484 - Automationtesting -INFO - Entered Company
+2024-02-27 12:54:54,701 - Automationtesting -INFO - Entered Address
+2024-02-27 12:54:54,885 - Automationtesting -INFO - Entered Address2
+2024-02-27 12:54:55,170 - Automationtesting -INFO - Country Selected
+2024-02-27 12:54:55,332 - Automationtesting -INFO - Entered State
+2024-02-27 12:54:55,465 - Automationtesting -INFO - Entered city
+2024-02-27 12:54:55,599 - Automationtesting -INFO - Entered zipcode
+2024-02-27 12:54:55,760 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 12:54:58,855 - Automationtesting -INFO - Verified! Account created
+2024-02-27 12:55:04,053 - Automationtesting -INFO - Verified! user logged in as User1508177485
+2024-02-27 12:55:19,192 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-27 12:55:22,589 - Automationtesting -INFO - Verify success message 'ACCOUNT DELETED!'
+2024-02-27 13:08:07,693 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:08:10,669 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:08:12,220 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:08:12,513 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:08:12,656 - Automationtesting -INFO - password is Entered
+2024-02-27 13:08:18,271 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:11:25,473 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:11:28,820 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:11:30,131 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:11:30,339 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:11:30,483 - Automationtesting -INFO - password is Entered
+2024-02-27 13:11:34,204 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:12:44,399 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:12:50,094 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:12:51,627 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:12:51,893 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:12:52,032 - Automationtesting -INFO - password is Entered
+2024-02-27 13:12:54,540 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:13:59,771 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:14:03,122 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:14:04,444 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:14:04,675 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:14:04,810 - Automationtesting -INFO - password is Entered
+2024-02-27 13:14:06,931 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:17:02,896 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:17:11,826 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:17:13,100 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:17:13,538 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:17:13,685 - Automationtesting -INFO - password is Entered
+2024-02-27 13:17:15,855 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:18:00,169 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:18:07,918 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:18:09,278 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:18:09,478 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:18:09,658 - Automationtesting -INFO - password is Entered
+2024-02-27 13:18:13,524 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:19:59,101 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:20:02,194 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:20:04,632 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:20:04,889 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:20:05,050 - Automationtesting -INFO - password is Entered
+2024-02-27 13:20:08,062 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:20:13,162 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-27 13:22:33,731 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:22:40,220 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:22:42,326 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:22:42,575 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:22:42,735 - Automationtesting -INFO - password is Entered
+2024-02-27 13:22:45,224 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:22:50,332 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-27 13:23:36,316 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:23:40,477 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:23:42,233 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:23:42,476 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:23:42,651 - Automationtesting -INFO - password is Entered
+2024-02-27 13:23:46,408 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:23:51,500 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-27 13:24:14,790 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:24:18,449 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 13:24:19,959 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 13:24:20,315 - Automationtesting -INFO - Username is Entered
+2024-02-27 13:24:20,481 - Automationtesting -INFO - password is Entered
+2024-02-27 13:24:23,579 - Automationtesting -INFO - SignIn Successful
+2024-02-27 13:24:28,643 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-27 13:24:45,216 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-27 13:30:15,542 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:30:38,187 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:31:54,216 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:31:57,675 - Automationtesting -INFO - homePage is verified successfully!
+2024-02-27 13:42:54,282 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:42:59,378 - Automationtesting -INFO - homePage is verified successfully!
+2024-02-27 13:44:21,681 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 13:44:26,224 - Automationtesting -INFO - homePage is verified successfully!
+2024-02-27 15:30:57,489 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:31:01,004 - Automationtesting -INFO - Categories is visible
+2024-02-27 15:38:25,123 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:38:29,117 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:38:39,706 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:38:50,069 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:39:33,677 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:39:37,088 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:44:03,172 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:44:06,294 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:44:20,946 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:44:24,041 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:45:15,794 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:45:19,134 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:46:03,226 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:46:06,807 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:46:15,229 - Automationtesting -INFO - WOMEN - TOPS PRODUCTS is visible
+2024-02-27 15:54:12,924 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 15:54:16,337 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 15:54:24,763 - Automationtesting -INFO - WOMEN - TOPS PRODUCTS is visible
+2024-02-27 15:54:34,123 - Automationtesting -INFO - MEN - TSHIRTS PRODUCTS is visible
+2024-02-27 16:19:33,090 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:19:38,597 - Automationtesting -INFO - brand is not visible on screen
+2024-02-27 16:21:58,748 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:22:08,133 - Automationtesting -INFO - brand is not visible on screen
+2024-02-27 16:22:58,925 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:23:37,020 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:25:13,596 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:27:03,150 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:27:12,498 - Automationtesting -INFO - Brand is visible on left side of bar
+2024-02-27 16:30:31,351 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:30:35,483 - Automationtesting -INFO - URL is Opened
+2024-02-27 16:30:35,495 - Automationtesting -INFO - Homepage is visible successfully
+2024-02-27 16:30:36,675 - Automationtesting -INFO - Verified! User New user signup
+2024-02-27 16:30:36,788 - Automationtesting -INFO - name is Entered
+2024-02-27 16:30:36,918 - Automationtesting -INFO - email is Entered
+2024-02-27 16:30:38,433 - Automationtesting -INFO - Verified! Enter account information text
+2024-02-27 16:30:39,108 - Automationtesting -INFO - Date selected successfully
+2024-02-27 16:30:39,176 - Automationtesting -INFO - Entered FirstName
+2024-02-27 16:30:39,231 - Automationtesting -INFO - Entered LastName
+2024-02-27 16:30:39,285 - Automationtesting -INFO - Entered Company
+2024-02-27 16:30:39,340 - Automationtesting -INFO - Entered Address
+2024-02-27 16:30:39,396 - Automationtesting -INFO - Entered Address2
+2024-02-27 16:30:39,504 - Automationtesting -INFO - Country Selected
+2024-02-27 16:30:39,577 - Automationtesting -INFO - Entered State
+2024-02-27 16:30:39,628 - Automationtesting -INFO - Entered city
+2024-02-27 16:30:39,679 - Automationtesting -INFO - Entered zipcode
+2024-02-27 16:30:39,738 - Automationtesting -INFO - Entered mobilenumebr
+2024-02-27 16:30:41,397 - Automationtesting -INFO - Verified! Account created
+2024-02-27 16:30:47,977 - Automationtesting -INFO - Verified! user logged in as User2125836196
+2024-02-27 16:31:00,479 - Automationtesting -INFO - Verify success message 'Your order has been placed successfully!'
+2024-02-27 16:31:03,384 - Automationtesting -INFO - Verify success message 'ACCOUNT DELETED!'
+2024-02-27 16:31:07,597 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:31:12,182 - Automationtesting -INFO - homepage is visible successfully!
+2024-02-27 16:31:13,222 - Automationtesting -INFO - Verified! Login to your account visible successfully
+2024-02-27 16:31:13,305 - Automationtesting -INFO - Username is Entered
+2024-02-27 16:31:13,379 - Automationtesting -INFO - password is Entered
+2024-02-27 16:31:17,983 - Automationtesting -INFO - SignIn Successful
+2024-02-27 16:31:23,018 - Automationtesting -INFO - Verified! user logged in as seema
+2024-02-27 16:31:36,540 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:31:39,970 - Automationtesting -INFO - homePage is verified successfully!
+2024-02-27 16:31:47,665 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:31:50,767 - Automationtesting -INFO - Categories text on left side bar is visible
+2024-02-27 16:31:59,423 - Automationtesting -INFO - WOMEN - TOPS PRODUCTS is visible
+2024-02-27 16:32:08,349 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 16:32:16,990 - Automationtesting -INFO - Brand is visible on left side of bar
+2024-02-27 17:05:36,010 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 17:05:43,018 - Automationtesting -INFO - All Product is visible on screen
+2024-02-27 17:07:43,759 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 17:07:51,099 - Automationtesting -INFO - All Product is visible on screen
+2024-02-27 18:05:44,257 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 18:06:15,865 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-27 18:06:51,699 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 10:57:31,623 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 10:57:42,545 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:01:18,214 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:01:55,397 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:02:02,176 - Automationtesting -INFO - ALL PRODUCTS
+2024-02-28 11:03:09,253 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:03:12,964 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:03:19,050 - Automationtesting -INFO - ALL PRODUCTStext is visible
+2024-02-28 11:03:20,703 - Automationtesting -INFO - SEARCHED PRODUCTStext is visible
+2024-02-28 11:03:54,965 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:04:01,266 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:04:02,965 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:37:01,704 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:37:11,193 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:37:13,505 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:37:34,896 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:37:42,661 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:37:44,535 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:37:45,018 - Automationtesting -INFO - product is not displayed: Blue Top
+2024-02-28 11:37:45,060 - Automationtesting -INFO - product is not displayed: 
+2024-02-28 11:43:03,400 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:43:15,459 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:44:21,088 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:44:27,512 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:44:29,210 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:44:29,331 - Automationtesting -INFO - product is not displayed: Blue Top
+2024-02-28 11:44:29,390 - Automationtesting -INFO - product is not displayed: 
+2024-02-28 11:45:40,822 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:45:46,768 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:45:48,458 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:45:48,554 - Automationtesting -INFO - product is displayed: Blue Top
+2024-02-28 11:45:48,663 - Automationtesting -INFO - product is displayed: 
+2024-02-28 11:48:04,587 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:48:09,790 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:48:11,307 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:49:14,060 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:49:30,895 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:49:33,165 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:49:55,591 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:50:15,104 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:50:16,917 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:50:56,470 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:51:04,025 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:51:05,631 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:52:24,743 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:52:30,749 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:52:32,353 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:52:32,492 - Automationtesting -INFO - product is not displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 11:52:32,569 - Automationtesting -INFO - product is not displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 11:52:32,614 - Automationtesting -INFO - product is not displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-28 11:52:32,665 - Automationtesting -INFO - product is not displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-28 11:52:32,713 - Automationtesting -INFO - product is not displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-28 11:52:32,756 - Automationtesting -INFO - product is not displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-28 11:52:32,799 - Automationtesting -INFO - product is not displayed: Rs. 1600
+Long Maxi Tulle Fancy Dress Up Outfits -Pink
+Add to cart
+2024-02-28 11:52:32,853 - Automationtesting -INFO - product is not displayed: Rs. 1100
+Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+Add to cart
+2024-02-28 11:52:32,901 - Automationtesting -INFO - product is not displayed: Rs. 2300
+Rose Pink Embroidered Maxi Dress
+Add to cart
+2024-02-28 11:53:17,519 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:53:30,114 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:54:05,099 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:54:17,875 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:54:20,271 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:54:20,317 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 11:54:20,346 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 11:54:20,370 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-28 11:54:20,419 - Automationtesting -INFO - product is  displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-28 11:54:20,439 - Automationtesting -INFO - product is  displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-28 11:54:20,456 - Automationtesting -INFO - product is  displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-28 11:54:20,472 - Automationtesting -INFO - product is  displayed: Rs. 1600
+Long Maxi Tulle Fancy Dress Up Outfits -Pink
+Add to cart
+2024-02-28 11:54:20,492 - Automationtesting -INFO - product is  displayed: Rs. 1100
+Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+Add to cart
+2024-02-28 11:54:20,514 - Automationtesting -INFO - product is  displayed: Rs. 2300
+Rose Pink Embroidered Maxi Dress
+Add to cart
+2024-02-28 11:59:14,085 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 11:59:24,158 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 11:59:26,097 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 11:59:26,139 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:12:43,077 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:12:51,168 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:12:52,892 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:12:52,932 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:16:41,356 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:16:46,946 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:16:49,037 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:16:49,081 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:21:16,030 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:21:20,760 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:21:22,634 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:21:22,674 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:22:12,835 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:22:18,901 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:22:20,043 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:22:20,085 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:22:20,156 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 12:22:20,250 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-28 12:22:20,301 - Automationtesting -INFO - product is  displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-28 12:22:20,368 - Automationtesting -INFO - product is  displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-28 12:22:20,417 - Automationtesting -INFO - product is  displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-28 12:23:24,168 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:23:31,762 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:23:33,286 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:23:33,334 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:24:22,348 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:24:29,229 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:24:30,503 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:24:30,552 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:24:36,723 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 12:25:17,469 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:25:24,784 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:25:27,034 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:25:27,077 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:25:33,225 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 12:25:39,621 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-28 12:29:05,564 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:29:12,482 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:29:31,558 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:29:47,406 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:29:53,832 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:29:55,170 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:29:55,216 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:30:34,424 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:30:40,932 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:30:42,199 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:32:53,131 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:33:09,595 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:33:18,351 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:34:25,429 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:34:36,945 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:34:38,990 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:35:54,857 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:36:03,747 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:36:05,623 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:36:11,786 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:37:14,683 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:37:25,554 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:37:26,900 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:37:33,075 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:38:05,258 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:38:15,047 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:38:20,887 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:38:22,598 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:38:44,503 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:38:53,666 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 12:39:05,308 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:39:16,341 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:39:23,932 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:39:25,335 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:39:31,507 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:39:40,686 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 12:42:49,910 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:42:56,769 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:42:58,048 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:43:04,227 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:43:19,896 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:43:34,774 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:43:36,056 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:43:42,255 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:43:54,866 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:44:08,017 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:44:18,057 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:44:27,326 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:44:29,246 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:44:35,400 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:44:57,855 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:45:07,337 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:45:09,199 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:45:16,395 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:45:26,921 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:45:28,750 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:45:51,733 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:46:05,049 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:46:07,005 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:46:13,179 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:55:02,662 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:55:12,972 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:55:31,736 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:55:34,172 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:55:37,271 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 12:56:46,861 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 12:56:56,197 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 12:56:57,717 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 12:57:03,900 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 13:27:28,628 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 13:27:37,970 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 13:27:40,576 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 13:27:46,757 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 13:29:22,886 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 13:29:30,059 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 13:29:31,906 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 13:29:38,316 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 13:29:47,598 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 17:45:32,214 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 17:45:44,438 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 17:45:54,516 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 17:46:06,042 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 17:46:20,487 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 17:46:29,834 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 17:46:34,101 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 17:46:40,472 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 18:04:34,032 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:04:44,921 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:04:46,580 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:04:53,559 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:05:01,947 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:05:04,302 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:06:34,889 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:06:42,242 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:06:44,178 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:07:08,794 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:07:17,741 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:07:19,277 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:08:05,577 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:08:13,688 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:08:15,427 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:08:35,387 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:08:43,514 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:08:45,929 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:10:19,734 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:10:28,867 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:10:30,353 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:11:05,683 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:11:14,231 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:11:16,365 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:11:22,698 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 18:18:18,930 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:18:28,087 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:18:30,469 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:18:36,916 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 18:18:53,887 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:19:04,229 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:19:06,847 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:20:14,146 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:20:22,545 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:20:24,466 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:20:30,962 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-28 18:20:40,282 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-28 18:20:49,619 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-28 18:20:58,945 - Automationtesting -INFO - product is  displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-28 18:21:08,244 - Automationtesting -INFO - product is  displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-28 18:21:17,478 - Automationtesting -INFO - product is  displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-28 18:21:26,771 - Automationtesting -INFO - product is  displayed: Rs. 1600
+Long Maxi Tulle Fancy Dress Up Outfits -Pink
+Add to cart
+2024-02-28 18:21:36,071 - Automationtesting -INFO - product is  displayed: Rs. 1100
+Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+Add to cart
+2024-02-28 18:21:45,350 - Automationtesting -INFO - product is  displayed: Rs. 2300
+Rose Pink Embroidered Maxi Dress
+Add to cart
+2024-02-28 18:24:15,829 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:24:36,598 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:24:38,826 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:24:45,127 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-28 18:24:54,419 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-28 18:25:03,736 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-28 18:25:13,037 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-28 18:25:22,350 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-28 18:25:31,624 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-28 18:26:17,764 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:26:27,359 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:26:29,033 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:26:51,054 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:26:59,117 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:27:01,302 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:27:07,724 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-28 18:27:17,083 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-28 18:27:26,417 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-28 18:27:35,732 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-28 18:27:45,012 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-28 18:27:54,281 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-28 18:28:21,177 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:28:30,992 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:28:33,164 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:28:40,960 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:28:49,751 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:28:51,704 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:28:59,849 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:29:09,675 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:29:11,611 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-28 18:29:18,082 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-28 18:29:27,365 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-28 18:30:44,414 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-28 18:30:53,671 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-28 18:30:55,677 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:17:38,387 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:17:46,201 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 10:17:48,113 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:17:48,159 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 10:17:51,215 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 10:17:54,251 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 10:17:57,270 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 10:18:00,299 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 10:18:03,323 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 10:39:07,685 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:39:17,869 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:39:26,226 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 10:39:27,847 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:39:27,896 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 10:39:30,945 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 10:39:33,985 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 10:39:37,038 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 10:39:40,087 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 10:39:43,137 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 10:53:27,556 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:53:36,452 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 10:53:37,751 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:53:37,789 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 10:53:40,827 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 10:53:43,860 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 10:53:46,892 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 10:53:49,943 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 10:53:52,992 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 10:58:06,418 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:58:16,645 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 10:58:18,546 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:58:18,615 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 10:58:21,697 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 10:58:24,773 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 10:58:27,829 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 10:58:30,886 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 10:58:33,935 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 10:59:13,390 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 10:59:23,077 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 10:59:25,461 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 10:59:25,600 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 10:59:28,689 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 10:59:31,774 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 10:59:34,840 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 10:59:37,908 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 10:59:40,973 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:00:14,505 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:00:26,403 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:00:32,754 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:00:32,870 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:00:35,964 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:00:39,029 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:00:42,113 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:00:45,176 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:00:48,235 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:02:33,392 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:02:45,260 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:02:54,979 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:02:56,701 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:02:56,779 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:02:59,855 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:03:02,913 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:03:05,996 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:03:09,066 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:03:12,146 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:06:30,142 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:06:38,381 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:06:40,475 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:06:40,653 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:06:43,768 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:06:46,832 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:06:49,919 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:06:52,994 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:06:56,063 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:09:09,422 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:09:21,058 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:09:27,825 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:09:27,925 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:09:30,991 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:09:34,058 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:09:37,132 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:09:40,207 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:09:43,284 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:12:28,651 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:12:41,334 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:12:52,769 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:13:01,011 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:13:04,476 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:13:04,639 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:13:07,710 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:13:10,763 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:13:13,869 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:13:16,929 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:13:20,005 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:14:20,752 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:14:36,058 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:14:44,261 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:14:46,327 - Automationtesting -INFO - SEARCHED PRODUCTS text is visible
+2024-02-29 11:14:46,435 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:14:48,525 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:14:50,607 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:14:52,693 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:14:54,776 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:14:56,857 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:27:57,768 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:28:06,320 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:28:06,416 - Automationtesting -INFO - product is  displayed: Rs. 500
+Blue Top
+Add to cart
+2024-02-29 11:28:08,499 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:28:10,565 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-29 11:28:12,649 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-29 11:28:14,716 - Automationtesting -INFO - product is  displayed: Rs. 600
+Winter Top
+Add to cart
+2024-02-29 11:28:16,783 - Automationtesting -INFO - product is  displayed: Rs. 400
+Summer White Top
+Add to cart
+2024-02-29 11:28:18,873 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Madame Top For Women
+Add to cart
+2024-02-29 11:28:20,948 - Automationtesting -INFO - product is  displayed: Rs. 700
+Fancy Green Top
+Add to cart
+2024-02-29 11:28:22,998 - Automationtesting -INFO - product is  displayed: Rs. 499
+Sleeves Printed Top - White
+Add to cart
+2024-02-29 11:28:25,100 - Automationtesting -INFO - product is  displayed: Rs. 359
+Half Sleeves Top Schiffli Detailing - Pink
+Add to cart
+2024-02-29 11:28:27,180 - Automationtesting -INFO - product is  displayed: Rs. 278
+Frozen Tops For Kids
+Add to cart
+2024-02-29 11:28:29,266 - Automationtesting -INFO - product is  displayed: Rs. 679
+Full Sleeves Top Cherry - Pink
+Add to cart
+2024-02-29 11:28:31,324 - Automationtesting -INFO - product is  displayed: Rs. 315
+Printed Off Shoulder Top - White
+Add to cart
+2024-02-29 11:28:33,397 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-29 11:28:35,476 - Automationtesting -INFO - product is  displayed: Rs. 1200
+Little Girls Mr. Panda Shirt
+Add to cart
+2024-02-29 11:28:37,554 - Automationtesting -INFO - product is  displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-29 11:28:39,624 - Automationtesting -INFO - product is  displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-29 11:28:41,688 - Automationtesting -INFO - product is  displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-29 11:28:43,745 - Automationtesting -INFO - product is  displayed: Rs. 1600
+Long Maxi Tulle Fancy Dress Up Outfits -Pink
+Add to cart
+2024-02-29 11:28:45,802 - Automationtesting -INFO - product is  displayed: Rs. 1100
+Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+Add to cart
+2024-02-29 11:28:47,866 - Automationtesting -INFO - product is  displayed: Rs. 849
+Colour Blocked Shirt – Sky Blue
+Add to cart
+2024-02-29 11:28:49,924 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:28:51,992 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:28:54,050 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:28:56,122 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:28:58,195 - Automationtesting -INFO - product is  displayed: Rs. 799
+Soft Stretch Jeans
+Add to cart
+2024-02-29 11:29:00,254 - Automationtesting -INFO - product is  displayed: Rs. 1200
+Regular Fit Straight Jeans
+Add to cart
+2024-02-29 11:29:02,326 - Automationtesting -INFO - product is  displayed: Rs. 1400
+Grunt Blue Slim Fit Jeans
+Add to cart
+2024-02-29 11:29:04,369 - Automationtesting -INFO - product is  displayed: Rs. 2300
+Rose Pink Embroidered Maxi Dress
+Add to cart
+2024-02-29 11:29:06,420 - Automationtesting -INFO - product is  displayed: Rs. 3000
+Cotton Silk Hand Block Print Saree
+Add to cart
+2024-02-29 11:29:08,489 - Automationtesting -INFO - product is  displayed: Rs. 3500
+Rust Red Linen Saree
+Add to cart
+2024-02-29 11:29:10,534 - Automationtesting -INFO - product is  displayed: Rs. 5000
+Beautiful Peacock Blue Cotton Linen Saree
+Add to cart
+2024-02-29 11:29:12,596 - Automationtesting -INFO - product is  displayed: Rs. 1400
+Lace Top For Women
+Add to cart
+2024-02-29 11:29:14,663 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:31:38,641 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:31:46,228 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:31:46,377 - Automationtesting -INFO - product is  displayed: Rs. 500
+Blue Top
+Add to cart
+2024-02-29 11:31:48,425 - Automationtesting -INFO - product is  displayed: Rs. 400
+Men Tshirt
+Add to cart
+2024-02-29 11:31:50,504 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Sleeveless Dress
+Add to cart
+2024-02-29 11:31:52,570 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Stylish Dress
+Add to cart
+2024-02-29 11:31:54,634 - Automationtesting -INFO - product is  displayed: Rs. 600
+Winter Top
+Add to cart
+2024-02-29 11:31:56,704 - Automationtesting -INFO - product is  displayed: Rs. 400
+Summer White Top
+Add to cart
+2024-02-29 11:31:58,768 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Madame Top For Women
+Add to cart
+2024-02-29 11:32:00,835 - Automationtesting -INFO - product is  displayed: Rs. 700
+Fancy Green Top
+Add to cart
+2024-02-29 11:32:02,904 - Automationtesting -INFO - product is  displayed: Rs. 499
+Sleeves Printed Top - White
+Add to cart
+2024-02-29 11:32:04,969 - Automationtesting -INFO - product is  displayed: Rs. 359
+Half Sleeves Top Schiffli Detailing - Pink
+Add to cart
+2024-02-29 11:32:07,052 - Automationtesting -INFO - product is  displayed: Rs. 278
+Frozen Tops For Kids
+Add to cart
+2024-02-29 11:32:09,120 - Automationtesting -INFO - product is  displayed: Rs. 679
+Full Sleeves Top Cherry - Pink
+Add to cart
+2024-02-29 11:32:11,202 - Automationtesting -INFO - product is  displayed: Rs. 315
+Printed Off Shoulder Top - White
+Add to cart
+2024-02-29 11:32:13,266 - Automationtesting -INFO - product is  displayed: Rs. 478
+Sleeves Top and Short - Blue & Pink
+Add to cart
+2024-02-29 11:32:15,335 - Automationtesting -INFO - product is  displayed: Rs. 1200
+Little Girls Mr. Panda Shirt
+Add to cart
+2024-02-29 11:32:17,398 - Automationtesting -INFO - product is  displayed: Rs. 1050
+Sleeveless Unicorn Patch Gown - Pink
+Add to cart
+2024-02-29 11:32:19,468 - Automationtesting -INFO - product is  displayed: Rs. 1190
+Cotton Mull Embroidered Dress
+Add to cart
+2024-02-29 11:32:21,521 - Automationtesting -INFO - product is  displayed: Rs. 1530
+Blue Cotton Indie Mickey Dress
+Add to cart
+2024-02-29 11:32:23,590 - Automationtesting -INFO - product is  displayed: Rs. 1600
+Long Maxi Tulle Fancy Dress Up Outfits -Pink
+Add to cart
+2024-02-29 11:32:25,655 - Automationtesting -INFO - product is  displayed: Rs. 1100
+Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+Add to cart
+2024-02-29 11:32:27,720 - Automationtesting -INFO - product is  displayed: Rs. 849
+Colour Blocked Shirt – Sky Blue
+Add to cart
+2024-02-29 11:32:29,784 - Automationtesting -INFO - product is  displayed: Rs. 1299
+Pure Cotton V-Neck T-Shirt
+Add to cart
+2024-02-29 11:32:31,854 - Automationtesting -INFO - product is  displayed: Rs. 1000
+Green Side Placket Detail T-Shirt
+Add to cart
+2024-02-29 11:32:33,919 - Automationtesting -INFO - product is  displayed: Rs. 1500
+Premium Polo T-Shirts
+Add to cart
+2024-02-29 11:32:35,986 - Automationtesting -INFO - product is  displayed: Rs. 850
+Pure Cotton Neon Green Tshirt
+Add to cart
+2024-02-29 11:32:38,052 - Automationtesting -INFO - product is  displayed: Rs. 799
+Soft Stretch Jeans
+Add to cart
+2024-02-29 11:32:40,119 - Automationtesting -INFO - product is  displayed: Rs. 1200
+Regular Fit Straight Jeans
+Add to cart
+2024-02-29 11:32:42,194 - Automationtesting -INFO - product is  displayed: Rs. 1400
+Grunt Blue Slim Fit Jeans
+Add to cart
+2024-02-29 11:32:44,267 - Automationtesting -INFO - product is  displayed: Rs. 2300
+Rose Pink Embroidered Maxi Dress
+Add to cart
+2024-02-29 11:32:46,335 - Automationtesting -INFO - product is  displayed: Rs. 3000
+Cotton Silk Hand Block Print Saree
+Add to cart
+2024-02-29 11:32:48,405 - Automationtesting -INFO - product is  displayed: Rs. 3500
+Rust Red Linen Saree
+Add to cart
+2024-02-29 11:32:50,481 - Automationtesting -INFO - product is  displayed: Rs. 5000
+Beautiful Peacock Blue Cotton Linen Saree
+Add to cart
+2024-02-29 11:32:52,548 - Automationtesting -INFO - product is  displayed: Rs. 1400
+Lace Top For Women
+Add to cart
+2024-02-29 11:32:54,599 - Automationtesting -INFO - product is  displayed: Rs. 1389
+GRAPHIC DESIGN MEN T SHIRT - BLUE
+Add to cart
+2024-02-29 11:34:48,762 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:34:56,431 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:35:05,464 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:35:16,567 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:48:37,137 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:48:48,425 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:48:57,875 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:49:07,248 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:52:05,062 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:52:24,132 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 11:53:52,794 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 11:54:03,832 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:06:02,144 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:06:14,193 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:06:22,825 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:06:30,294 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:06:38,994 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:27:16,305 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:27:25,095 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:52:13,892 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:52:24,031 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:52:59,593 - Automationtesting -INFO - Username is Entered
+2024-02-29 12:52:59,745 - Automationtesting -INFO - password is Entered
+2024-02-29 12:53:02,610 - Automationtesting -INFO - SignIn Successful
+2024-02-29 12:53:48,208 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:54:01,480 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:54:20,179 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:54:31,724 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:54:41,137 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:55:09,103 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 12:55:18,417 - Automationtesting -INFO - ALL PRODUCTS text is visible
+2024-02-29 12:55:54,355 - Automationtesting -INFO - Username is Entered
+2024-02-29 12:55:54,470 - Automationtesting -INFO - password is Entered
+2024-02-29 12:55:57,988 - Automationtesting -INFO - SignIn Successful
+2024-02-29 13:06:47,902 - Automationtesting -INFO - Edge Browser Launched successfully
+2024-02-29 13:06:55,290 - Automationtesting -INFO - ALL PRODUCTS text is visible

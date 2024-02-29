@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.automationexerciseUtilities.Reporting"></listener>
+	</listeners>
+  <test name="AutomationExercise">
+	  <parameter name="browser" value="edge"></parameter>
+    <classes>
+   <class name="com.automationexerciseTestCases.BaseClass"/>  
+    <!-- <class name="com.automationexerciseTestCases.TC_01_LoginTest"/>
+         <class name="com.automationexerciseTestCases.TC_02_RegisterUser"/> 
+         <class name="com.automationexerciseTestCases.TC_03_IncorrectLogin"/> 
+         <class name="com.automationexerciseTestCases.TC_04_LogoutUser"/>
+         <class name="com.automationexerciseTestCases.TC_05_RegisterExistingUser"/>
+
+         <class name="com.automationexerciseTestCases.TC_06_ContactUsForm"/>
+         <class name="com.automationexerciseTestCases.TC_07_VerifyTestcasePage"/>
+         <class name="com.automationexerciseTestCases.TC_08_VerifyProductDetailPage"/> 
+         <class name="com.automationexerciseTestCases.TC_09_SearchProduct"/>
+         <class name="com.automationexerciseTestCases.TC_10_Subscription"/>
+                    
+         <class name="com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage"/> 
+         <class name="com.automationexerciseTestCases.TC_12_AddProductInCart"/> 
+         <class name="com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart"/>
+         <class name="com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister"/>   
+         <class name="com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout"/>
+         
+          <class name="com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut"/>
+          <class name="com.automationexerciseTestCases.TC_17_RemoveProductFromCart"/>
+          <class name="com.automationexerciseTestCases.TC_18_ViewCategoryProduct"/>   
+          <class name="com.automationexerciseTestCases.TC_19_CartBrandProduct"/> 
+          <class name="com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin"/>-->
+                    <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct"/>
+
+
+
+
+
+                   
+
+                   
+
+            
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
