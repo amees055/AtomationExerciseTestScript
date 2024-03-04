@@ -7,6 +7,13 @@
   <test thread-count="5" name="AutomationExercise(failed)">
     <parameter name="browser" value="edge"/>
     <classes>
+      <class name="com.automationexerciseTestCases.TC_09_SearchProduct">
+        <methods>
+          <include name="tearDown"/>
+          <include name="searchproduct"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_09_SearchProduct -->
       <class name="com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin">
         <methods>
           <include name="tearDown"/>
@@ -14,6 +21,69 @@
           <include name="searchproductandverifycart"/>
         </methods>
       </class> <!-- com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin -->
+      <class name="com.automationexerciseTestCases.TC_04_LogoutUser">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="logoutuser"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_04_LogoutUser -->
+      <class name="com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="addtocartfromrecommendeditems"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems -->
+      <class name="com.automationexerciseTestCases.TC_02_RegisterUser">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="registertest"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_02_RegisterUser -->
+      <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addreviewonproduct"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_21_AddReviewOnProduct -->
+      <class name="com.automationexerciseTestCases.TC_08_VerifyProductDetailPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="productdetailpage"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_08_VerifyProductDetailPage -->
+      <class name="com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loginbeforecheckout"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut -->
+      <class name="com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart">
+        <methods>
+          <include name="tearDown"/>
+          <include name="productquantityincart"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart -->
+      <class name="com.automationexerciseTestCases.TC_07_VerifyTestcasePage">
+        <methods>
+          <include name="testcasepage"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_07_VerifyTestcasePage -->
+      <class name="com.automationexerciseTestCases.TC_06_ContactUsForm">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="contactus"/>
+        </methods>
+      </class> <!-- com.automationexerciseTestCases.TC_06_ContactUsForm -->
     </classes>
   </test> <!-- AutomationExercise(failed) -->
 </suite> <!-- Failed suite [Suite] -->

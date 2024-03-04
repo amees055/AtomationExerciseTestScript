@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="26" passed="15" failed="11" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-29T13:06:45 IST" name="Suite" finished-at="2024-02-29T13:06:57 IST" duration-ms="11700">
+  <suite started-at="2024-03-01T16:46:35 IST" name="Suite" finished-at="2024-03-01T16:54:41 IST" duration-ms="485349">
     <groups>
     </groups>
-    <test started-at="2024-02-29T13:06:45 IST" name="AutomationExercise" finished-at="2024-02-29T13:06:57 IST" duration-ms="11700">
-      <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:46 IST" name="setup" finished-at="2024-02-29T13:06:47 IST" duration-ms="1658" status="PASS">
+    <test started-at="2024-03-01T16:46:35 IST" name="AutomationExercise" finished-at="2024-03-01T16:54:41 IST" duration-ms="485349">
+      <class name="com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut@79e4c792]" started-at="2024-03-01T16:50:54 IST" name="setup" finished-at="2024-03-01T16:50:56 IST" duration-ms="2489" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,1190 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addreviewonproduct()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:47 IST" name="addreviewonproduct" finished-at="2024-02-29T13:06:57 IST" duration-ms="9522" status="PASS">
+        <test-method signature="loginbeforecheckout()[pri:0, instance:com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut@79e4c792]" started-at="2024-03-01T16:50:56 IST" name="loginbeforecheckout" finished-at="2024-03-01T16:51:09 IST" duration-ms="12635" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [be66e9abf58eed1c0452e5cc40fc3c35, findElement {value=//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50626}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50626/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be66e9abf58eed1c0452e5cc40fc3c35]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [be66e9abf58eed1c0452e5cc40fc3c35, findElement {value=//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50626}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50626/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be66e9abf58eed1c0452e5cc40fc3c35
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut.loginbeforecheckout(TC_16_PlaceOrderLoginBeforeCheckOut.java:60)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbeforecheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut@79e4c792]" started-at="2024-03-01T16:51:09 IST" name="tearDown" finished-at="2024-03-01T16:51:09 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_16_PlaceOrderLoginBeforeCheckOut -->
+      <class name="com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton@d737b89]" started-at="2024-03-01T16:54:10 IST" name="setup" finished-at="2024-03-01T16:54:13 IST" duration-ms="2344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollupanddownfunctionality()[pri:0, instance:com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton@d737b89]" started-at="2024-03-01T16:54:13 IST" name="scrollupanddownfunctionality" finished-at="2024-03-01T16:54:25 IST" duration-ms="12511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollupanddownfunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton@d737b89]" started-at="2024-03-01T16:54:25 IST" name="tearDown" finished-at="2024-03-01T16:54:25 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton -->
+      <class name="com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout@17f9d882]" started-at="2024-03-01T16:50:11 IST" name="setup" finished-at="2024-03-01T16:50:13 IST" duration-ms="2440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerbeforececkout()[pri:0, instance:com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout@17f9d882]" started-at="2024-03-01T16:50:13 IST" name="registerbeforececkout" finished-at="2024-03-01T16:50:54 IST" duration-ms="40661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerbeforececkout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout@17f9d882]" started-at="2024-03-01T16:50:54 IST" name="tearDown" finished-at="2024-03-01T16:50:54 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_15_PlaceOrderRegisterBeforeCheckout -->
+      <class name="com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems@4b29d1d2]" started-at="2024-03-01T16:52:15 IST" name="setup" finished-at="2024-03-01T16:52:18 IST" duration-ms="2413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addtocartfromrecommendeditems()[pri:0, instance:com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems@4b29d1d2]" started-at="2024-03-01T16:52:18 IST" name="addtocartfromrecommendeditems" finished-at="2024-03-01T16:52:35 IST" duration-ms="17873" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a href="/view_cart">...</a> is not clickable at point (614, 10). Other element would receive the click: <div id="cartModal" class="modal show">...</div>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [69483c7d896fa3f8f2bbf84f55b36e1f, clickElement {id=f.1980FC7CC825D0D32FFA6EDCABA08BA9.d.00FB3C6F76F53792841B05376A993270.e.9}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51039}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51039/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (69483c7d896fa3f8f2bbf84f55b36e1f)] -> xpath: //a[@href='/view_cart']]
+Session ID: 69483c7d896fa3f8f2bbf84f55b36e1f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/view_cart">...</a> is not clickable at point (614, 10). Other element would receive the click: <div id="cartModal" class="modal show">...</div>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [69483c7d896fa3f8f2bbf84f55b36e1f, clickElement {id=f.1980FC7CC825D0D32FFA6EDCABA08BA9.d.00FB3C6F76F53792841B05376A993270.e.9}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51039}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51039/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (69483c7d896fa3f8f2bbf84f55b36e1f)] -> xpath: //a[@href='/view_cart']]
+Session ID: 69483c7d896fa3f8f2bbf84f55b36e1f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems.addtocartfromrecommendeditems(TC_22_AddToCartFromRecommendedItems.java:27)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartfromrecommendeditems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems@4b29d1d2]" started-at="2024-03-01T16:52:35 IST" name="tearDown" finished-at="2024-03-01T16:52:36 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems -->
+      <class name="com.automationexerciseTestCases.TC_02_RegisterUser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_02_RegisterUser@3a7442c7]" started-at="2024-03-01T16:46:54 IST" name="setup" finished-at="2024-03-01T16:46:57 IST" duration-ms="2441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registertest()[pri:0, instance:com.automationexerciseTestCases.TC_02_RegisterUser@3a7442c7]" started-at="2024-03-01T16:46:57 IST" name="registertest" finished-at="2024-03-01T16:47:17 IST" duration-ms="20852" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@data-qa='continue-button']"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d0dd0d6b70cb4824ca66065ebe2a805e, findElement {value=//a[@data-qa='continue-button'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49293}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49293/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d0dd0d6b70cb4824ca66065ebe2a805e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@data-qa='continue-button']"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d0dd0d6b70cb4824ca66065ebe2a805e, findElement {value=//a[@data-qa='continue-button'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49293}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49293/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d0dd0d6b70cb4824ca66065ebe2a805e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at com.automationexerciseTestCases.TC_02_RegisterUser.registertest(TC_02_RegisterUser.java:206)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_02_RegisterUser@3a7442c7]" started-at="2024-03-01T16:47:17 IST" name="tearDown" finished-at="2024-03-01T16:47:18 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_02_RegisterUser -->
+      <class name="com.automationexerciseTestCases.TC_08_VerifyProductDetailPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_08_VerifyProductDetailPage@33065d67]" started-at="2024-03-01T16:48:09 IST" name="setup" finished-at="2024-03-01T16:48:11 IST" duration-ms="2404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productdetailpage()[pri:0, instance:com.automationexerciseTestCases.TC_08_VerifyProductDetailPage@33065d67]" started-at="2024-03-01T16:48:11 IST" name="productdetailpage" finished-at="2024-03-01T16:48:15 IST" duration-ms="4142" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at com.automationexerciseTestCases.TC_08_VerifyProductDetailPage.productdetailpage(TC_08_VerifyProductDetailPage.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productdetailpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_08_VerifyProductDetailPage@33065d67]" started-at="2024-03-01T16:48:15 IST" name="tearDown" finished-at="2024-03-01T16:48:15 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_08_VerifyProductDetailPage -->
+      <class name="com.automationexerciseTestCases.TC_12_AddProductInCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_12_AddProductInCart@75437611]" started-at="2024-03-01T16:48:57 IST" name="setup" finished-at="2024-03-01T16:49:00 IST" duration-ms="2409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addproductincart()[pri:0, instance:com.automationexerciseTestCases.TC_12_AddProductInCart@75437611]" started-at="2024-03-01T16:49:00 IST" name="addproductincart" finished-at="2024-03-01T16:49:10 IST" duration-ms="9955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproductincart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_12_AddProductInCart@75437611]" started-at="2024-03-01T16:49:10 IST" name="tearDown" finished-at="2024-03-01T16:49:10 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_12_AddProductInCart -->
+      <class name="com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart@350aac89]" started-at="2024-03-01T16:49:10 IST" name="setup" finished-at="2024-03-01T16:49:12 IST" duration-ms="2377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productquantityincart()[pri:0, instance:com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart@350aac89]" started-at="2024-03-01T16:49:12 IST" name="productquantityincart" finished-at="2024-03-01T16:49:21 IST" duration-ms="9004" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a href="/product_details/1" style="color: brown;">...</a> is not clickable at point (450, 640). Other element would receive the click: <iframe id="aswift_6" name="aswift_6" style="width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="" height="" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/html/r20240227/r20110914/zrt_lookup_nohtml_fy2021.html#RS-0-&amp;adk=1812271808&amp;client=ca-pub-1677597403311019&amp;fa=8&amp;ifi=7&amp;uci=a!7" data-google-container-id="a!7" data-google-query-id="CLr2p9740oQDFYcJtwAdppwAiQ" data-load-complete="true"></iframe>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [555985b3814262040d691f998f2bf0d9, clickElement {id=f.B7BD37C09754698E179F4DD7FA2D344D.d.29C7E691106A39C968B4AB0D654CA000.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50306}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50306/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (555985b3814262040d691f998f2bf0d9)] -> xpath: //a[@href='/product_details/1']]
+Session ID: 555985b3814262040d691f998f2bf0d9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/product_details/1" style="color: brown;">...</a> is not clickable at point (450, 640). Other element would receive the click: <iframe id="aswift_6" name="aswift_6" style="width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="" height="" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/html/r20240227/r20110914/zrt_lookup_nohtml_fy2021.html#RS-0-&amp;adk=1812271808&amp;client=ca-pub-1677597403311019&amp;fa=8&amp;ifi=7&amp;uci=a!7" data-google-container-id="a!7" data-google-query-id="CLr2p9740oQDFYcJtwAdppwAiQ" data-load-complete="true"></iframe>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [555985b3814262040d691f998f2bf0d9, clickElement {id=f.B7BD37C09754698E179F4DD7FA2D344D.d.29C7E691106A39C968B4AB0D654CA000.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50306}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50306/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (555985b3814262040d691f998f2bf0d9)] -> xpath: //a[@href='/product_details/1']]
+Session ID: 555985b3814262040d691f998f2bf0d9
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart.productquantityincart(TC_13_VerifyProductQuantityInCart.java:19)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productquantityincart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart@350aac89]" started-at="2024-03-01T16:49:21 IST" name="tearDown" finished-at="2024-03-01T16:49:21 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_13_VerifyProductQuantityInCart -->
+      <class name="com.automationexerciseTestCases.TC_18_ViewCategoryProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_18_ViewCategoryProduct@4c60d6e9]" started-at="2024-03-01T16:51:22 IST" name="setup" finished-at="2024-03-01T16:51:24 IST" duration-ms="2327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="categoryproduct()[pri:0, instance:com.automationexerciseTestCases.TC_18_ViewCategoryProduct@4c60d6e9]" started-at="2024-03-01T16:51:24 IST" name="categoryproduct" finished-at="2024-03-01T16:51:45 IST" duration-ms="20684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_18_ViewCategoryProduct@4c60d6e9]" started-at="2024-03-01T16:51:45 IST" name="tearDown" finished-at="2024-03-01T16:51:45 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_18_ViewCategoryProduct -->
+      <class name="com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage@742ff096]" started-at="2024-03-01T16:48:40 IST" name="setup" finished-at="2024-03-01T16:48:42 IST" duration-ms="2461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="subscriptionincartpage()[pri:0, instance:com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage@742ff096]" started-at="2024-03-01T16:48:42 IST" name="subscriptionincartpage" finished-at="2024-03-01T16:48:57 IST" duration-ms="14626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscriptionincartpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage@742ff096]" started-at="2024-03-01T16:48:57 IST" name="tearDown" finished-at="2024-03-01T16:48:57 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_11_VerifySubscriptionInCartPage -->
+      <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@1349883]" started-at="2024-03-01T16:52:08 IST" name="setup" finished-at="2024-03-01T16:52:10 IST" duration-ms="2450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addreviewonproduct()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@1349883]" started-at="2024-03-01T16:52:10 IST" name="addreviewonproduct" finished-at="2024-03-01T16:52:15 IST" duration-ms="4597" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [ALL PRODUCTS] but found [FEATURES ITEMS]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [ALL PRODUCTS] but found [FEATURES ITEMS]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.automationexerciseTestCases.TC_21_AddReviewOnProduct.addreviewonproduct(TC_21_AddReviewOnProduct.java:15)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addreviewonproduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@11392934]" started-at="2024-02-29T13:06:57 IST" name="tearDown" finished-at="2024-02-29T13:06:57 IST" duration-ms="229" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_21_AddReviewOnProduct@1349883]" started-at="2024-03-01T16:52:15 IST" name="tearDown" finished-at="2024-03-01T16:52:15 IST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.automationexerciseTestCases.TC_21_AddReviewOnProduct -->
+      <class name="com.automationexerciseTestCases.TC_07_VerifyTestcasePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_07_VerifyTestcasePage@cb0755b]" started-at="2024-03-01T16:48:02 IST" name="setup" finished-at="2024-03-01T16:48:04 IST" duration-ms="2425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcasepage()[pri:0, instance:com.automationexerciseTestCases.TC_07_VerifyTestcasePage@cb0755b]" started-at="2024-03-01T16:48:04 IST" name="testcasepage" finished-at="2024-03-01T16:48:08 IST" duration-ms="4026" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="form"]/div/div[1]/div/h2/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [62a3f936eb0a27d8fcac7ff9d10100b6, findElement {value=//*[@id="form"]/div/div[1]/div/h2/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49897}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49897/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62a3f936eb0a27d8fcac7ff9d10100b6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="form"]/div/div[1]/div/h2/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [62a3f936eb0a27d8fcac7ff9d10100b6, findElement {value=//*[@id="form"]/div/div[1]/div/h2/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49897}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49897/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62a3f936eb0a27d8fcac7ff9d10100b6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at com.automationexerciseTestCases.TC_07_VerifyTestcasePage.testcasepage(TC_07_VerifyTestcasePage.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_07_VerifyTestcasePage@cb0755b]" started-at="2024-03-01T16:48:08 IST" name="tearDown" finished-at="2024-03-01T16:48:09 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_07_VerifyTestcasePage -->
+      <class name="com.automationexerciseTestCases.TC_09_SearchProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_09_SearchProduct@712625fd]" started-at="2024-03-01T16:48:15 IST" name="setup" finished-at="2024-03-01T16:48:18 IST" duration-ms="2333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchproduct()[pri:0, instance:com.automationexerciseTestCases.TC_09_SearchProduct@712625fd]" started-at="2024-03-01T16:48:18 IST" name="searchproduct" finished-at="2024-03-01T16:48:25 IST" duration-ms="7584" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at com.automationexerciseTestCases.TC_09_SearchProduct.searchproduct(TC_09_SearchProduct.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_09_SearchProduct@712625fd]" started-at="2024-03-01T16:48:25 IST" name="tearDown" finished-at="2024-03-01T16:48:25 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_09_SearchProduct -->
+      <class name="com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder@28261e8e]" started-at="2024-03-01T16:53:09 IST" name="setup" finished-at="2024-03-01T16:53:11 IST" duration-ms="2429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="downloadinvoice()[pri:0, instance:com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder@28261e8e]" started-at="2024-03-01T16:53:11 IST" name="downloadinvoice" finished-at="2024-03-01T16:54:10 IST" duration-ms="58585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadinvoice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder@28261e8e]" started-at="2024-03-01T16:54:10 IST" name="tearDown" finished-at="2024-03-01T16:54:10 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder -->
+      <class name="com.automationexerciseTestCases.TC_03_IncorrectLogin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_03_IncorrectLogin@4be29ed9]" started-at="2024-03-01T16:47:18 IST" name="setup" finished-at="2024-03-01T16:47:20 IST" duration-ms="2447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginwithincorrectdata()[pri:0, instance:com.automationexerciseTestCases.TC_03_IncorrectLogin@4be29ed9]" started-at="2024-03-01T16:47:20 IST" name="loginwithincorrectdata" finished-at="2024-03-01T16:47:27 IST" duration-ms="6916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithincorrectdata -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_03_IncorrectLogin@4be29ed9]" started-at="2024-03-01T16:47:27 IST" name="tearDown" finished-at="2024-03-01T16:47:27 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_03_IncorrectLogin -->
+      <class name="com.automationexerciseTestCases.TC_01_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_01_LoginTest@6bbe85a8]" started-at="2024-03-01T16:46:36 IST" name="setup" finished-at="2024-03-01T16:46:39 IST" duration-ms="3275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:com.automationexerciseTestCases.TC_01_LoginTest@6bbe85a8]" started-at="2024-03-01T16:46:39 IST" name="logintest" finished-at="2024-03-01T16:46:54 IST" duration-ms="14970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_01_LoginTest@6bbe85a8]" started-at="2024-03-01T16:46:54 IST" name="tearDown" finished-at="2024-03-01T16:46:54 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_01_LoginTest -->
+      <class name="com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister@1c5920df]" started-at="2024-03-01T16:49:21 IST" name="setup" finished-at="2024-03-01T16:49:24 IST" duration-ms="2419" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeorder()[pri:0, instance:com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister@1c5920df]" started-at="2024-03-01T16:49:24 IST" name="placeorder" finished-at="2024-03-01T16:50:10 IST" duration-ms="46418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeorder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister@1c5920df]" started-at="2024-03-01T16:50:10 IST" name="tearDown" finished-at="2024-03-01T16:50:11 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_14_PlaceOrderCheckOutRegister -->
+      <class name="com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin@4a83a74a]" started-at="2024-03-01T16:51:56 IST" name="setup" finished-at="2024-03-01T16:51:58 IST" duration-ms="2396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchproductandverifycart()[pri:0, instance:com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin@4a83a74a]" started-at="2024-03-01T16:51:58 IST" name="searchproductandverifycart" finished-at="2024-03-01T16:52:08 IST" duration-ms="9155" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a data-product-id="1" class="btn btn-default add-to-cart">...</a> is not clickable at point (602, 679). Other element would receive the click: <iframe id="aswift_1" name="aswift_1" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/html/r20240228/r20110914/zrt_lookup_nohtml_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=2&amp;uci=a!2&amp;btvi=1" data-google-container-id="a!2" data-google-query-id="COGbx6_50oQDFXOkrAIdqdsIaQ" data-load-complete="true"></iframe>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [a3248432a6c8df316f7db22a27acce88, clickElement {id=f.BEAFC1E63FBEBC99C0DFC3C0C34735E7.d.47FAB5401810E88FED62ADDEBFB98DD9.e.85}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50902}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50902/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (a3248432a6c8df316f7db22a27acce88)] -> xpath:  //a[@data-product-id='1']]
+Session ID: a3248432a6c8df316f7db22a27acce88]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a data-product-id="1" class="btn btn-default add-to-cart">...</a> is not clickable at point (602, 679). Other element would receive the click: <iframe id="aswift_1" name="aswift_1" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/html/r20240228/r20110914/zrt_lookup_nohtml_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-1677597403311019&amp;fa=1&amp;ifi=2&amp;uci=a!2&amp;btvi=1" data-google-container-id="a!2" data-google-query-id="COGbx6_50oQDFXOkrAIdqdsIaQ" data-load-complete="true"></iframe>
+  (Session info: MicrosoftEdge=122.0.2365.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [a3248432a6c8df316f7db22a27acce88, clickElement {id=f.BEAFC1E63FBEBC99C0DFC3C0C34735E7.d.47FAB5401810E88FED62ADDEBFB98DD9.e.85}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50902}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50902/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (a3248432a6c8df316f7db22a27acce88)] -> xpath:  //a[@data-product-id='1']]
+Session ID: a3248432a6c8df316f7db22a27acce88
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin.searchproductandverifycart(TC_20_SearchProductAndVerifyCartAfterLogin.java:75)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproductandverifycart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin@4a83a74a]" started-at="2024-03-01T16:52:08 IST" name="tearDown" finished-at="2024-03-01T16:52:08 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin -->
+      <class name="com.automationexerciseTestCases.TC_19_CartBrandProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_19_CartBrandProduct@15043a2f]" started-at="2024-03-01T16:51:45 IST" name="setup" finished-at="2024-03-01T16:51:48 IST" duration-ms="2447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cartbrandproduct()[pri:0, instance:com.automationexerciseTestCases.TC_19_CartBrandProduct@15043a2f]" started-at="2024-03-01T16:51:48 IST" name="cartbrandproduct" finished-at="2024-03-01T16:51:56 IST" duration-ms="8100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartbrandproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_19_CartBrandProduct@15043a2f]" started-at="2024-03-01T16:51:56 IST" name="tearDown" finished-at="2024-03-01T16:51:56 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_19_CartBrandProduct -->
+      <class name="com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton@8519cb4]" started-at="2024-03-01T16:54:25 IST" name="setup" finished-at="2024-03-01T16:54:28 IST" duration-ms="2414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollupanddown()[pri:0, instance:com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton@8519cb4]" started-at="2024-03-01T16:54:28 IST" name="scrollupanddown" finished-at="2024-03-01T16:54:40 IST" duration-ms="12747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollupanddown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton@8519cb4]" started-at="2024-03-01T16:54:41 IST" name="tearDown" finished-at="2024-03-01T16:54:41 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton -->
+      <class name="com.automationexerciseTestCases.TC_17_RemoveProductFromCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_17_RemoveProductFromCart@196a42c3]" started-at="2024-03-01T16:51:09 IST" name="setup" finished-at="2024-03-01T16:51:12 IST" duration-ms="2383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeproducfromcart()[pri:0, instance:com.automationexerciseTestCases.TC_17_RemoveProductFromCart@196a42c3]" started-at="2024-03-01T16:51:12 IST" name="removeproducfromcart" finished-at="2024-03-01T16:51:22 IST" duration-ms="10143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeproducfromcart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_17_RemoveProductFromCart@196a42c3]" started-at="2024-03-01T16:51:22 IST" name="tearDown" finished-at="2024-03-01T16:51:22 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_17_RemoveProductFromCart -->
+      <class name="com.automationexerciseTestCases.TC_06_ContactUsForm">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_06_ContactUsForm@53fb3dab]" started-at="2024-03-01T16:47:48 IST" name="setup" finished-at="2024-03-01T16:47:50 IST" duration-ms="2449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contactus()[pri:0, instance:com.automationexerciseTestCases.TC_06_ContactUsForm@53fb3dab]" started-at="2024-03-01T16:47:50 IST" name="contactus" finished-at="2024-03-01T16:48:02 IST" duration-ms="11661" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at org.junit.Assert.fail(Assert.java:86)
+at org.junit.Assert.assertTrue(Assert.java:41)
+at org.junit.Assert.assertTrue(Assert.java:52)
+at com.automationexerciseTestCases.TC_06_ContactUsForm.contactus(TC_06_ContactUsForm.java:120)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_06_ContactUsForm@53fb3dab]" started-at="2024-03-01T16:48:02 IST" name="tearDown" finished-at="2024-03-01T16:48:02 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_06_ContactUsForm -->
+      <class name="com.automationexerciseTestCases.TC_04_LogoutUser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_04_LogoutUser@548d708a]" started-at="2024-03-01T16:47:27 IST" name="setup" finished-at="2024-03-01T16:47:30 IST" duration-ms="2388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutuser()[pri:0, instance:com.automationexerciseTestCases.TC_04_LogoutUser@548d708a]" started-at="2024-03-01T16:47:30 IST" name="logoutuser" finished-at="2024-03-01T16:47:36 IST" duration-ms="6396" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6e7331bb5ce2bc33247655181c1178fa, findElement {value=//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49695}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49695/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e7331bb5ce2bc33247655181c1178fa]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b"}
+  (Session info: MicrosoftEdge=122.0.2365.52)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6e7331bb5ce2bc33247655181c1178fa, findElement {value=//*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a/b, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49695}, msedge: {msedgedriverVersion: 122.0.2365.52 (dcf246d1e496..., userDataDir: C:\Users\Seema\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49695/devtoo..., se:cdpVersion: 122.0.2365.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e7331bb5ce2bc33247655181c1178fa
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at com.automationexerciseTestCases.TC_04_LogoutUser.logoutuser(TC_04_LogoutUser.java:60)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutuser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_04_LogoutUser@548d708a]" started-at="2024-03-01T16:47:36 IST" name="tearDown" finished-at="2024-03-01T16:47:36 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_04_LogoutUser -->
+      <class name="com.automationexerciseTestCases.TC_05_RegisterExistingUser">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_05_RegisterExistingUser@4b013c76]" started-at="2024-03-01T16:47:36 IST" name="setup" finished-at="2024-03-01T16:47:39 IST" duration-ms="2402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerexistinguser()[pri:0, instance:com.automationexerciseTestCases.TC_05_RegisterExistingUser@4b013c76]" started-at="2024-03-01T16:47:39 IST" name="registerexistinguser" finished-at="2024-03-01T16:47:47 IST" duration-ms="8708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerexistinguser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_05_RegisterExistingUser@4b013c76]" started-at="2024-03-01T16:47:47 IST" name="tearDown" finished-at="2024-03-01T16:47:48 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_05_RegisterExistingUser -->
+      <class name="com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage@7f485fda]" started-at="2024-03-01T16:52:36 IST" name="setup" finished-at="2024-03-01T16:52:38 IST" duration-ms="2390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaddressdetailsincheckoutpage()[pri:0, instance:com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage@7f485fda]" started-at="2024-03-01T16:52:38 IST" name="verifyaddressdetailsincheckoutpage" finished-at="2024-03-01T16:53:09 IST" duration-ms="30632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddressdetailsincheckoutpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage@7f485fda]" started-at="2024-03-01T16:53:09 IST" name="tearDown" finished-at="2024-03-01T16:53:09 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage -->
+      <class name="com.automationexerciseTestCases.TC_10_Subscription">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.automationexerciseTestCases.TC_10_Subscription@7bba5817]" started-at="2024-03-01T16:48:25 IST" name="setup" finished-at="2024-03-01T16:48:28 IST" duration-ms="2382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="subscription()[pri:0, instance:com.automationexerciseTestCases.TC_10_Subscription@7bba5817]" started-at="2024-03-01T16:48:28 IST" name="subscription" finished-at="2024-03-01T16:48:40 IST" duration-ms="11904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexerciseTestCases.TC_10_Subscription@7bba5817]" started-at="2024-03-01T16:48:40 IST" name="tearDown" finished-at="2024-03-01T16:48:40 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexerciseTestCases.TC_10_Subscription -->
     </test> <!-- AutomationExercise -->
   </suite> <!-- Suite -->
 </testng-results>

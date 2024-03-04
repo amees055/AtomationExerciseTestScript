@@ -2572,3 +2572,814 @@ Add to cart
 2024-02-29 12:55:57,988 [main] INFO Automationtesting - SignIn Successful
 2024-02-29 13:06:47,902 [main] INFO Automationtesting - Edge Browser Launched successfully
 2024-02-29 13:06:55,290 [main] INFO Automationtesting - ALL PRODUCTS text is visible
+2024-02-29 13:29:39,638 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:29:46,527 [main] INFO Automationtesting - ALL PRODUCTS text is visible
+2024-02-29 13:30:28,386 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:30:37,580 [main] INFO Automationtesting - ALL PRODUCTS text is visible
+2024-02-29 13:31:52,739 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:32:46,611 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:34:41,406 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:35:43,046 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:36:09,245 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:36:35,231 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:37:02,931 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:40:04,775 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:40:12,825 [main] INFO Automationtesting - RECOMMENDED ITEMS text is visible
+2024-02-29 13:43:10,296 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 13:43:16,896 [main] INFO Automationtesting - RECOMMENDED ITEMS text is visible
+2024-02-29 15:07:19,036 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 15:07:27,992 [main] INFO Automationtesting - RECOMMENDED ITEMS text is visible
+2024-02-29 15:43:45,667 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-02-29 15:43:48,854 [main] INFO Automationtesting - Homepage is visible successfully
+2024-02-29 15:43:50,223 [main] INFO Automationtesting - name is Entered
+2024-02-29 15:43:50,437 [main] INFO Automationtesting - email is Entered
+2024-02-29 15:43:52,522 [main] INFO Automationtesting - Verified! Enter account information text
+2024-02-29 15:43:53,914 [main] INFO Automationtesting - Date selected successfully
+2024-02-29 15:43:54,075 [main] INFO Automationtesting - Entered FirstName
+2024-02-29 15:43:54,239 [main] INFO Automationtesting - Entered LastName
+2024-02-29 15:43:54,428 [main] INFO Automationtesting - Entered Company
+2024-02-29 15:43:54,612 [main] INFO Automationtesting - Entered Address
+2024-02-29 15:43:54,829 [main] INFO Automationtesting - Entered Address2
+2024-02-29 15:43:55,182 [main] INFO Automationtesting - Country Selected
+2024-02-29 15:43:55,418 [main] INFO Automationtesting - Entered State
+2024-02-29 15:43:55,564 [main] INFO Automationtesting - Entered city
+2024-02-29 15:43:55,754 [main] INFO Automationtesting - Entered zipcode
+2024-02-29 15:43:55,935 [main] INFO Automationtesting - Entered mobilenumebr
+2024-02-29 15:43:58,282 [main] INFO Automationtesting - Verified! Account created
+2024-02-29 15:44:06,099 [main] INFO Automationtesting - Verified! user logged in as User1598403315
+2024-03-01 12:45:49,522 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 12:45:52,942 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 12:45:55,472 [main] INFO Automationtesting - name is Entered
+2024-03-01 12:45:55,648 [main] INFO Automationtesting - email is Entered
+2024-03-01 12:45:57,659 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 12:45:59,094 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 12:45:59,265 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 12:45:59,435 [main] INFO Automationtesting - Entered LastName
+2024-03-01 12:45:59,603 [main] INFO Automationtesting - Entered Company
+2024-03-01 12:45:59,806 [main] INFO Automationtesting - Entered Address
+2024-03-01 12:45:59,973 [main] INFO Automationtesting - Entered Address2
+2024-03-01 12:46:00,297 [main] INFO Automationtesting - Country Selected
+2024-03-01 12:46:00,481 [main] INFO Automationtesting - Entered State
+2024-03-01 12:46:00,596 [main] INFO Automationtesting - Entered city
+2024-03-01 12:46:00,725 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 12:46:00,902 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 12:46:02,868 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 12:46:10,543 [main] INFO Automationtesting - Verified! user logged in as User1556479862
+2024-03-01 12:46:12,715 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 12:52:23,823 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 12:52:27,557 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 12:52:29,748 [main] INFO Automationtesting - name is Entered
+2024-03-01 12:52:29,927 [main] INFO Automationtesting - email is Entered
+2024-03-01 12:52:33,314 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 12:52:34,868 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 12:52:34,995 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 12:52:35,107 [main] INFO Automationtesting - Entered LastName
+2024-03-01 12:52:35,205 [main] INFO Automationtesting - Entered Company
+2024-03-01 12:52:35,329 [main] INFO Automationtesting - Entered Address
+2024-03-01 12:52:35,431 [main] INFO Automationtesting - Entered Address2
+2024-03-01 12:52:35,607 [main] INFO Automationtesting - Country Selected
+2024-03-01 12:52:35,707 [main] INFO Automationtesting - Entered State
+2024-03-01 12:52:35,790 [main] INFO Automationtesting - Entered city
+2024-03-01 12:52:35,953 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 12:52:36,117 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 12:52:38,777 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 12:52:44,021 [main] INFO Automationtesting - Verified! user logged in as User1238678199
+2024-03-01 12:52:45,416 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 12:56:29,274 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 12:56:32,582 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 12:56:34,247 [main] INFO Automationtesting - name is Entered
+2024-03-01 12:56:34,463 [main] INFO Automationtesting - email is Entered
+2024-03-01 12:56:36,067 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 12:56:37,529 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 12:56:37,716 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 12:56:37,876 [main] INFO Automationtesting - Entered LastName
+2024-03-01 12:56:37,999 [main] INFO Automationtesting - Entered Company
+2024-03-01 12:56:38,096 [main] INFO Automationtesting - Entered Address
+2024-03-01 12:56:38,202 [main] INFO Automationtesting - Entered Address2
+2024-03-01 12:56:38,393 [main] INFO Automationtesting - Country Selected
+2024-03-01 12:56:38,485 [main] INFO Automationtesting - Entered State
+2024-03-01 12:56:38,565 [main] INFO Automationtesting - Entered city
+2024-03-01 12:56:38,651 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 12:56:38,765 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 12:56:40,895 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 12:56:46,160 [main] INFO Automationtesting - Verified! user logged in as User834116846
+2024-03-01 12:56:47,666 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 13:36:35,600 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 13:36:40,274 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 13:36:41,934 [main] INFO Automationtesting - name is Entered
+2024-03-01 13:36:42,125 [main] INFO Automationtesting - email is Entered
+2024-03-01 13:36:44,110 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 13:36:45,528 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 13:36:45,721 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 13:36:45,864 [main] INFO Automationtesting - Entered LastName
+2024-03-01 13:36:46,032 [main] INFO Automationtesting - Entered Company
+2024-03-01 13:36:46,234 [main] INFO Automationtesting - Entered Address
+2024-03-01 13:36:46,402 [main] INFO Automationtesting - Entered Address2
+2024-03-01 13:36:46,749 [main] INFO Automationtesting - Country Selected
+2024-03-01 13:36:46,944 [main] INFO Automationtesting - Entered State
+2024-03-01 13:36:47,123 [main] INFO Automationtesting - Entered city
+2024-03-01 13:36:47,311 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 13:36:47,494 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 13:36:49,926 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 13:36:55,149 [main] INFO Automationtesting - Verified! user logged in as User1892590731
+2024-03-01 13:36:56,874 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 13:38:11,294 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 13:38:14,706 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 13:38:16,406 [main] INFO Automationtesting - name is Entered
+2024-03-01 13:38:16,553 [main] INFO Automationtesting - email is Entered
+2024-03-01 13:38:19,106 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 13:38:20,552 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 13:38:20,749 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 13:38:20,928 [main] INFO Automationtesting - Entered LastName
+2024-03-01 13:38:21,162 [main] INFO Automationtesting - Entered Company
+2024-03-01 13:38:21,335 [main] INFO Automationtesting - Entered Address
+2024-03-01 13:38:21,501 [main] INFO Automationtesting - Entered Address2
+2024-03-01 13:38:21,818 [main] INFO Automationtesting - Country Selected
+2024-03-01 13:38:22,007 [main] INFO Automationtesting - Entered State
+2024-03-01 13:38:22,134 [main] INFO Automationtesting - Entered city
+2024-03-01 13:38:22,282 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 13:38:22,465 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 13:38:25,101 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 13:38:30,292 [main] INFO Automationtesting - Verified! user logged in as User1826487458
+2024-03-01 13:39:53,712 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 13:39:57,438 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 13:39:59,500 [main] INFO Automationtesting - name is Entered
+2024-03-01 13:39:59,881 [main] INFO Automationtesting - email is Entered
+2024-03-01 13:40:01,704 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 13:40:03,222 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 13:40:03,376 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 13:40:03,582 [main] INFO Automationtesting - Entered LastName
+2024-03-01 13:40:03,758 [main] INFO Automationtesting - Entered Company
+2024-03-01 13:40:03,916 [main] INFO Automationtesting - Entered Address
+2024-03-01 13:40:04,109 [main] INFO Automationtesting - Entered Address2
+2024-03-01 13:40:04,434 [main] INFO Automationtesting - Country Selected
+2024-03-01 13:40:04,586 [main] INFO Automationtesting - Entered State
+2024-03-01 13:40:04,682 [main] INFO Automationtesting - Entered city
+2024-03-01 13:40:04,859 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 13:40:05,023 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 13:40:07,592 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 13:40:12,783 [main] INFO Automationtesting - Verified! user logged in as User1144445351
+2024-03-01 13:40:14,549 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:37:18,271 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:37:21,579 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:37:23,563 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:37:23,746 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:37:25,784 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:37:27,156 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:37:27,322 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:37:27,526 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:37:27,725 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:37:27,875 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:37:28,044 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:37:28,358 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:37:28,533 [main] INFO Automationtesting - Entered State
+2024-03-01 14:37:28,700 [main] INFO Automationtesting - Entered city
+2024-03-01 14:37:28,830 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:37:28,985 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:37:31,653 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:37:36,889 [main] INFO Automationtesting - Verified! user logged in as User560120693
+2024-03-01 14:37:38,617 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:37:45,353 [main] INFO Automationtesting - Mrs. test2 trial is same as filled at the time of registration
+2024-03-01 14:37:45,404 [main] INFO Automationtesting - boppo is same as filled at the time of registration
+2024-03-01 14:37:45,456 [main] INFO Automationtesting - bhandup is same as filled at the time of registration
+2024-03-01 14:37:45,503 [main] INFO Automationtesting - lbs road is same as filled at the time of registration
+2024-03-01 14:39:28,217 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:39:32,058 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:39:34,012 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:39:34,194 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:39:36,173 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:39:37,672 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:39:37,806 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:39:37,992 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:39:38,116 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:39:38,279 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:39:38,377 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:39:38,603 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:39:38,722 [main] INFO Automationtesting - Entered State
+2024-03-01 14:39:38,810 [main] INFO Automationtesting - Entered city
+2024-03-01 14:39:38,940 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:39:39,079 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:39:41,536 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:39:46,738 [main] INFO Automationtesting - Verified! user logged in as User1488126530
+2024-03-01 14:39:48,574 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:39:55,705 [main] INFO Automationtesting - Mrs. test2 trial is same as filled at the time of registration
+2024-03-01 14:39:55,750 [main] INFO Automationtesting - boppo is same as filled at the time of registration
+2024-03-01 14:39:55,799 [main] INFO Automationtesting - bhandup is same as filled at the time of registration
+2024-03-01 14:39:55,848 [main] INFO Automationtesting - lbs road is same as filled at the time of registration
+2024-03-01 14:41:30,461 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:41:34,426 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:41:36,070 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:41:36,208 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:41:38,127 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:41:39,583 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:41:39,775 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:41:39,959 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:41:40,126 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:41:40,299 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:41:40,521 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:41:40,890 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:41:41,047 [main] INFO Automationtesting - Entered State
+2024-03-01 14:41:41,156 [main] INFO Automationtesting - Entered city
+2024-03-01 14:41:41,279 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:41:41,416 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:41:44,093 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:41:52,395 [main] INFO Automationtesting - Verified! user logged in as User1539019201
+2024-03-01 14:41:54,323 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:41:58,611 [main] INFO Automationtesting - Mrs. test2 trial is same as filled at the time of registration
+2024-03-01 14:41:58,666 [main] INFO Automationtesting - boppo is same as filled at the time of registration
+2024-03-01 14:41:58,723 [main] INFO Automationtesting - bhandup is same as filled at the time of registration
+2024-03-01 14:41:58,781 [main] INFO Automationtesting - lbs road is same as filled at the time of registration
+2024-03-01 14:41:58,840 [main] INFO Automationtesting - mumbai maharashtra 400099 is same as filled at the time of registration
+2024-03-01 14:43:28,546 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:43:32,114 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:43:34,488 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:43:34,696 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:43:36,884 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:43:38,323 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:43:38,503 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:43:38,655 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:43:38,808 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:43:38,943 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:43:39,060 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:43:39,453 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:43:39,635 [main] INFO Automationtesting - Entered State
+2024-03-01 14:43:39,801 [main] INFO Automationtesting - Entered city
+2024-03-01 14:43:39,947 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:43:40,126 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:43:42,946 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:43:50,982 [main] INFO Automationtesting - Verified! user logged in as User440105703
+2024-03-01 14:43:53,122 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:43:57,619 [main] INFO Automationtesting - Mrs. test2 trial is same as filled at the time of registration
+2024-03-01 14:43:57,675 [main] INFO Automationtesting - boppo is same as filled at the time of registration
+2024-03-01 14:43:57,728 [main] INFO Automationtesting - bhandup is same as filled at the time of registration
+2024-03-01 14:43:57,779 [main] INFO Automationtesting - lbs road is same as filled at the time of registration
+2024-03-01 14:43:57,830 [main] INFO Automationtesting - mumbai maharashtra 400099 is same as filled at the time of registration
+2024-03-01 14:45:39,847 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:45:43,410 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:45:45,268 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:45:45,470 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:45:47,010 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:45:48,662 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:45:48,879 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:45:49,096 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:45:49,286 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:45:49,455 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:45:49,628 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:45:49,937 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:45:50,155 [main] INFO Automationtesting - Entered State
+2024-03-01 14:45:50,293 [main] INFO Automationtesting - Entered city
+2024-03-01 14:45:50,466 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:45:50,647 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:45:53,206 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:45:58,431 [main] INFO Automationtesting - Verified! user logged in as User1201043620
+2024-03-01 14:46:02,581 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:46:06,851 [main] INFO Automationtesting - Mrs. test2 trial is same as filled at the time of registration
+2024-03-01 14:46:06,915 [main] INFO Automationtesting - boppo is same as filled at the time of registration
+2024-03-01 14:46:06,974 [main] INFO Automationtesting - bhandup is same as filled at the time of registration
+2024-03-01 14:46:07,030 [main] INFO Automationtesting - lbs road is same as filled at the time of registration
+2024-03-01 14:46:07,093 [main] INFO Automationtesting - mumbai maharashtra 400099 is same as filled at the time of registration
+2024-03-01 14:46:07,153 [main] INFO Automationtesting - Canada is same as filled at the time of registration
+2024-03-01 14:46:07,212 [main] INFO Automationtesting - 8765432345 is same as filled at the time of registration
+2024-03-01 14:52:47,360 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:52:50,582 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:52:52,670 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:52:52,875 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:52:54,566 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:52:56,015 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:52:56,274 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:52:56,426 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:52:56,586 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:52:56,787 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:52:56,953 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:52:57,212 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:52:57,474 [main] INFO Automationtesting - Entered State
+2024-03-01 14:52:57,654 [main] INFO Automationtesting - Entered city
+2024-03-01 14:52:57,859 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:52:58,044 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:53:00,602 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:53:05,804 [main] INFO Automationtesting - Verified! user logged in as User1935231235
+2024-03-01 14:53:07,320 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:53:13,492 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 14:53:13,547 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 14:53:13,598 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 14:53:13,651 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 14:53:13,692 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 14:53:13,744 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 14:53:13,806 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 14:53:13,860 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 14:53:13,915 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 14:53:13,973 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 14:53:14,028 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 14:53:14,083 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 14:53:14,142 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 14:53:14,211 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 14:55:21,462 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:55:24,998 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:55:27,122 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:55:27,281 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:55:29,438 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:55:30,848 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:55:31,042 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:55:31,197 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:55:31,364 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:55:31,595 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:55:31,900 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:55:32,391 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:55:32,845 [main] INFO Automationtesting - Entered State
+2024-03-01 14:55:33,076 [main] INFO Automationtesting - Entered city
+2024-03-01 14:55:33,321 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:55:33,565 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:55:36,072 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:55:51,836 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 14:55:55,112 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 14:55:57,580 [main] INFO Automationtesting - name is Entered
+2024-03-01 14:55:57,734 [main] INFO Automationtesting - email is Entered
+2024-03-01 14:56:00,365 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 14:56:01,862 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 14:56:02,014 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 14:56:02,125 [main] INFO Automationtesting - Entered LastName
+2024-03-01 14:56:02,228 [main] INFO Automationtesting - Entered Company
+2024-03-01 14:56:02,330 [main] INFO Automationtesting - Entered Address
+2024-03-01 14:56:02,418 [main] INFO Automationtesting - Entered Address2
+2024-03-01 14:56:02,613 [main] INFO Automationtesting - Country Selected
+2024-03-01 14:56:02,735 [main] INFO Automationtesting - Entered State
+2024-03-01 14:56:02,846 [main] INFO Automationtesting - Entered city
+2024-03-01 14:56:03,005 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 14:56:03,152 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 14:56:05,736 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 14:56:10,975 [main] INFO Automationtesting - Verified! user logged in as User1989859213
+2024-03-01 14:56:14,674 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 14:56:19,798 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 14:56:19,850 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 14:56:19,912 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 14:56:19,971 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 14:56:20,026 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 14:56:20,079 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 14:56:20,136 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 14:56:20,189 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 14:56:20,244 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 14:56:20,301 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 14:56:20,361 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 14:56:20,423 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 14:56:20,480 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 14:56:20,534 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 14:56:22,752 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 15:09:52,356 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:09:56,093 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:09:58,329 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:10:16,145 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:10:20,703 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:10:22,578 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:11:16,876 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:11:20,230 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:11:25,233 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:11:47,512 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:11:50,908 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:12:03,574 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:12:07,804 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:12:33,484 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:12:37,130 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:13:18,649 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:13:22,230 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:14:12,226 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:14:16,029 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:14:50,723 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:14:55,120 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:16:04,051 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:16:09,370 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:16:17,503 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:16:41,237 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:16:46,581 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:16:53,974 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:17:37,775 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:17:42,279 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:17:51,207 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:17:53,057 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:17:53,248 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:17:55,436 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:20:09,008 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:20:12,574 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:20:21,375 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:20:24,194 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:20:24,596 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:20:27,133 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:20:43,755 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:20:50,825 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:20:58,854 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:21:01,123 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:21:01,273 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:21:02,632 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:23:32,393 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:23:37,585 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:23:44,916 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:23:47,081 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:23:47,291 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:23:48,774 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:24:18,131 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:24:21,228 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:24:29,347 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:24:31,450 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:24:31,611 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:24:33,861 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:24:35,407 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:24:35,596 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:24:35,765 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:24:35,914 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:24:36,065 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:24:36,239 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:24:36,584 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:24:36,797 [main] INFO Automationtesting - Entered State
+2024-03-01 15:24:36,929 [main] INFO Automationtesting - Entered city
+2024-03-01 15:24:37,092 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:24:37,264 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:24:39,583 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:24:48,773 [main] INFO Automationtesting - Verified! user logged in as User1056156604
+2024-03-01 15:32:22,196 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:32:25,951 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:32:33,289 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:32:34,410 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:32:34,527 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:32:36,778 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:32:37,423 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:32:37,499 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:32:37,564 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:32:37,621 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:32:37,683 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:32:37,746 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:32:37,863 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:32:37,934 [main] INFO Automationtesting - Entered State
+2024-03-01 15:32:37,989 [main] INFO Automationtesting - Entered city
+2024-03-01 15:32:38,043 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:32:38,102 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:32:39,448 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:32:47,368 [main] INFO Automationtesting - Verified! user logged in as User1862963779
+2024-03-01 15:32:49,909 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 15:32:49,927 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 15:32:49,943 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 15:32:49,960 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 15:32:49,976 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 15:32:49,993 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 15:32:50,011 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 15:36:55,787 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:36:58,812 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:37:06,111 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:37:07,219 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:37:07,303 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:37:08,342 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:37:08,959 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:37:09,036 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:37:09,091 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:37:09,191 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:37:09,282 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:37:09,341 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:37:09,482 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:37:09,553 [main] INFO Automationtesting - Entered State
+2024-03-01 15:37:09,606 [main] INFO Automationtesting - Entered city
+2024-03-01 15:37:09,663 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:37:09,725 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:37:12,252 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:37:20,096 [main] INFO Automationtesting - Verified! user logged in as User50575346
+2024-03-01 15:37:22,951 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 15:37:22,973 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 15:37:22,991 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 15:37:23,011 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 15:37:23,030 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 15:37:23,047 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 15:37:23,064 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 15:37:55,781 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:37:59,282 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:38:06,775 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:38:07,724 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:38:07,837 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:38:09,276 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:38:09,904 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:38:09,978 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:38:10,033 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:38:10,099 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:38:10,163 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:38:10,236 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:38:10,354 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:38:10,426 [main] INFO Automationtesting - Entered State
+2024-03-01 15:38:10,483 [main] INFO Automationtesting - Entered city
+2024-03-01 15:38:10,536 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:38:10,599 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:38:12,245 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:38:19,738 [main] INFO Automationtesting - Verified! user logged in as User1818458494
+2024-03-01 15:38:22,531 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 15:38:22,547 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 15:38:22,562 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 15:38:22,577 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 15:38:22,592 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 15:38:22,609 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 15:38:22,625 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 15:39:02,725 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:39:06,191 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:39:13,662 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:39:15,082 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:39:15,167 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:39:16,956 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:39:17,596 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:39:17,674 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:39:17,732 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:39:17,784 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:39:17,844 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:39:17,908 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:39:18,041 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:39:18,117 [main] INFO Automationtesting - Entered State
+2024-03-01 15:39:18,178 [main] INFO Automationtesting - Entered city
+2024-03-01 15:39:18,242 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:39:18,311 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:39:19,646 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:39:27,778 [main] INFO Automationtesting - Verified! user logged in as User1136902593
+2024-03-01 15:39:30,633 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 15:39:30,654 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 15:39:30,676 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 15:39:30,693 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 15:39:30,717 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 15:39:30,739 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 15:39:30,761 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 15:39:41,846 [main] INFO Automationtesting - Verify success message 'Your order has been placed successfully!'
+2024-03-01 15:42:59,041 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:43:02,573 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 15:43:09,911 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 15:43:11,032 [main] INFO Automationtesting - name is Entered
+2024-03-01 15:43:11,109 [main] INFO Automationtesting - email is Entered
+2024-03-01 15:43:12,082 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 15:43:12,823 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 15:43:12,922 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 15:43:12,979 [main] INFO Automationtesting - Entered LastName
+2024-03-01 15:43:13,037 [main] INFO Automationtesting - Entered Company
+2024-03-01 15:43:13,099 [main] INFO Automationtesting - Entered Address
+2024-03-01 15:43:13,166 [main] INFO Automationtesting - Entered Address2
+2024-03-01 15:43:13,337 [main] INFO Automationtesting - Country Selected
+2024-03-01 15:43:13,449 [main] INFO Automationtesting - Entered State
+2024-03-01 15:43:13,563 [main] INFO Automationtesting - Entered city
+2024-03-01 15:43:13,634 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 15:43:13,740 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 15:43:15,229 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 15:43:22,795 [main] INFO Automationtesting - Verified! user logged in as User426515021
+2024-03-01 15:43:25,773 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 15:43:25,792 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 15:43:25,812 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 15:43:25,829 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 15:43:25,850 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 15:43:25,867 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 15:43:25,884 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 15:43:36,252 [main] INFO Automationtesting - Verify success message 'Your order has been placed successfully!'
+2024-03-01 15:43:40,441 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 15:55:42,096 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:55:46,352 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 15:56:21,676 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:56:26,285 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 15:57:28,545 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:57:32,322 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 15:58:42,282 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 15:58:45,804 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:05:08,486 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:05:11,523 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:06:40,780 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:06:45,531 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:10:26,759 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:10:30,147 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:10:33,196 [main] INFO Automationtesting - SUBSCRIPTION
+2024-03-01 16:19:30,370 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:19:33,758 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:19:36,800 [main] INFO Automationtesting - SUBSCRIPTION
+2024-03-01 16:21:51,988 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:21:55,586 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:21:58,700 [main] INFO Automationtesting - SUBSCRIPTION
+2024-03-01 16:23:00,068 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:23:03,689 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:23:06,751 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:23:18,625 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:23:21,739 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:23:24,781 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:23:36,133 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:23:39,679 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:23:42,739 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:28:29,743 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:28:32,805 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:28:35,855 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:29:41,445 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:29:44,573 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:29:47,611 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:30:18,394 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:30:21,914 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:30:24,969 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:31:23,038 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:31:26,751 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:31:29,796 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:38:32,728 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:38:36,003 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:38:39,065 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:38:45,218 [main] INFO Automationtesting - Full-Fledged practice website for Automation Engineerstext is visible
+2024-03-01 16:41:30,119 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:41:33,287 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:41:36,351 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:41:42,485 [main] INFO Automationtesting - text is visible
+2024-03-01 16:43:41,700 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:43:45,514 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:43:48,594 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:43:54,756 [main] INFO Automationtesting - text is visible
+2024-03-01 16:44:26,500 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:44:30,448 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:46:39,381 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:46:42,900 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:46:42,918 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:46:44,507 [main] INFO Automationtesting - Verified! Login to your account visible successfully
+2024-03-01 16:46:44,808 [main] INFO Automationtesting - Username is Entered
+2024-03-01 16:46:44,923 [main] INFO Automationtesting - password is Entered
+2024-03-01 16:46:49,128 [main] INFO Automationtesting - SignIn Successful
+2024-03-01 16:46:49,195 [main] INFO Automationtesting - Verified! user logged in as seema
+2024-03-01 16:46:50,730 [main] INFO Automationtesting - Verified! ACCOUNT DELETED!
+2024-03-01 16:46:57,121 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:47:00,913 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:47:00,931 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 16:47:02,986 [main] INFO Automationtesting - Verified! User New user signup
+2024-03-01 16:47:03,270 [main] INFO Automationtesting - name is Entered
+2024-03-01 16:47:03,376 [main] INFO Automationtesting - email is Entered
+2024-03-01 16:47:05,358 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 16:47:06,386 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 16:47:06,590 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 16:47:06,764 [main] INFO Automationtesting - Entered LastName
+2024-03-01 16:47:06,822 [main] INFO Automationtesting - Entered Company
+2024-03-01 16:47:06,886 [main] INFO Automationtesting - Entered Address
+2024-03-01 16:47:06,953 [main] INFO Automationtesting - Entered Address2
+2024-03-01 16:47:07,099 [main] INFO Automationtesting - Country Selected
+2024-03-01 16:47:07,271 [main] INFO Automationtesting - Entered State
+2024-03-01 16:47:07,337 [main] INFO Automationtesting - Entered city
+2024-03-01 16:47:07,397 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 16:47:07,468 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 16:47:09,489 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 16:47:17,297 [main] INFO Automationtesting - Verified! user logged in as User616757367
+2024-03-01 16:47:20,658 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:47:24,466 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:47:24,483 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:47:26,040 [main] INFO Automationtesting - Verified! Login to your account visible successfully
+2024-03-01 16:47:26,248 [main] INFO Automationtesting - Username is Entered
+2024-03-01 16:47:26,313 [main] INFO Automationtesting - password is Entered
+2024-03-01 16:47:27,576 [main] INFO Automationtesting - ERROr! Your email or password is incorrect!
+2024-03-01 16:47:30,184 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:47:33,162 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:47:33,184 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:47:35,105 [main] INFO Automationtesting - Verified! Login to your account visible successfully
+2024-03-01 16:47:35,268 [main] INFO Automationtesting - Username is Entered
+2024-03-01 16:47:35,397 [main] INFO Automationtesting - password is Entered
+2024-03-01 16:47:36,554 [main] INFO Automationtesting - SignIn Successful
+2024-03-01 16:47:39,175 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:47:42,641 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:47:42,665 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 16:47:45,021 [main] INFO Automationtesting - Verified! User New user signup
+2024-03-01 16:47:45,100 [main] INFO Automationtesting - name is Entered
+2024-03-01 16:47:45,209 [main] INFO Automationtesting - email is Entered
+2024-03-01 16:47:47,885 [main] INFO Automationtesting - ERROr! Email Address already exist!
+2024-03-01 16:47:50,506 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:47:53,791 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:47:53,813 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:47:55,817 [main] INFO Automationtesting - Verified! GET IN TOUCH is visible
+2024-03-01 16:48:01,530 [main] INFO Automationtesting - Success! Your details have been submitted successfully
+2024-03-01 16:48:04,843 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:48:08,685 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:48:08,698 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:48:11,453 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:48:14,919 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:48:14,943 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:48:18,104 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:48:24,938 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:48:24,959 [main] INFO Automationtesting - verified! home screen is visible successfully
+2024-03-01 16:48:28,265 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:48:34,761 [main] INFO Automationtesting - verified!! home page
+2024-03-01 16:48:42,887 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:48:47,428 [main] INFO Automationtesting - verified!! home page
+2024-03-01 16:49:00,160 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:49:04,045 [main] INFO Automationtesting - verified!! home page
+2024-03-01 16:49:10,107 [main] INFO Automationtesting - Rs. 500
+2024-03-01 16:49:10,117 [main] INFO Automationtesting - Rs. 400
+2024-03-01 16:49:12,665 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:49:24,323 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:49:28,156 [main] INFO Automationtesting - Automation Exercise
+2024-03-01 16:49:42,819 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 16:49:43,006 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 16:49:43,145 [main] INFO Automationtesting - Entered LastName
+2024-03-01 16:49:43,205 [main] INFO Automationtesting - Entered Company
+2024-03-01 16:49:43,276 [main] INFO Automationtesting - Entered Address
+2024-03-01 16:49:43,347 [main] INFO Automationtesting - Entered Address2
+2024-03-01 16:49:43,473 [main] INFO Automationtesting - Country Selected
+2024-03-01 16:49:43,592 [main] INFO Automationtesting - Entered State
+2024-03-01 16:49:43,652 [main] INFO Automationtesting - Entered city
+2024-03-01 16:49:43,715 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 16:49:43,789 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 16:49:46,059 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 16:49:49,511 [main] INFO Automationtesting - Verified! user logged in as seema
+2024-03-01 16:50:05,713 [main] INFO Automationtesting - Verify success message 'Your order has been placed successfully!'
+2024-03-01 16:50:09,098 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 16:50:13,467 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:50:17,623 [main] INFO Automationtesting - URL is Opened
+2024-03-01 16:50:17,636 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 16:50:19,740 [main] INFO Automationtesting - Verified! User New user signup
+2024-03-01 16:50:19,945 [main] INFO Automationtesting - name is Entered
+2024-03-01 16:50:20,064 [main] INFO Automationtesting - email is Entered
+2024-03-01 16:50:21,893 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 16:50:22,749 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 16:50:22,912 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 16:50:23,064 [main] INFO Automationtesting - Entered LastName
+2024-03-01 16:50:23,124 [main] INFO Automationtesting - Entered Company
+2024-03-01 16:50:23,206 [main] INFO Automationtesting - Entered Address
+2024-03-01 16:50:23,303 [main] INFO Automationtesting - Entered Address2
+2024-03-01 16:50:23,424 [main] INFO Automationtesting - Country Selected
+2024-03-01 16:50:23,511 [main] INFO Automationtesting - Entered State
+2024-03-01 16:50:23,569 [main] INFO Automationtesting - Entered city
+2024-03-01 16:50:23,628 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 16:50:23,694 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 16:50:25,916 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 16:50:31,149 [main] INFO Automationtesting - Verified! user logged in as User2124862619
+2024-03-01 16:50:47,704 [main] INFO Automationtesting - Verify success message 'Your order has been placed successfully!'
+2024-03-01 16:50:51,701 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 16:50:56,921 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:51:00,342 [main] INFO Automationtesting - homepage is visible successfully!
+2024-03-01 16:51:02,758 [main] INFO Automationtesting - Verified! Login to your account visible successfully
+2024-03-01 16:51:02,928 [main] INFO Automationtesting - Username is Entered
+2024-03-01 16:51:03,059 [main] INFO Automationtesting - password is Entered
+2024-03-01 16:51:04,523 [main] INFO Automationtesting - SignIn Successful
+2024-03-01 16:51:12,173 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:51:16,613 [main] INFO Automationtesting - homePage is verified successfully!
+2024-03-01 16:51:24,841 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:51:28,590 [main] INFO Automationtesting - Categories text on left side bar is visible
+2024-03-01 16:51:45,525 [main] INFO Automationtesting - MEN - TSHIRTS PRODUCTS is visible
+2024-03-01 16:51:48,225 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:51:56,325 [main] INFO Automationtesting - Brand is visible on left side of bar
+2024-03-01 16:51:58,974 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:52:06,951 [main] INFO Automationtesting - ALL PRODUCTS text is visible
+2024-03-01 16:52:10,892 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:52:18,065 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:52:28,585 [main] INFO Automationtesting - RECOMMENDED ITEMS text is visible
+2024-03-01 16:52:38,571 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:52:42,297 [main] INFO Automationtesting - Homepage is visible successfully
+2024-03-01 16:52:44,340 [main] INFO Automationtesting - name is Entered
+2024-03-01 16:52:44,452 [main] INFO Automationtesting - email is Entered
+2024-03-01 16:52:46,220 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 16:52:46,971 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 16:52:47,074 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 16:52:47,151 [main] INFO Automationtesting - Entered LastName
+2024-03-01 16:52:47,220 [main] INFO Automationtesting - Entered Company
+2024-03-01 16:52:47,294 [main] INFO Automationtesting - Entered Address
+2024-03-01 16:52:47,362 [main] INFO Automationtesting - Entered Address2
+2024-03-01 16:52:47,499 [main] INFO Automationtesting - Country Selected
+2024-03-01 16:52:47,619 [main] INFO Automationtesting - Entered State
+2024-03-01 16:52:47,681 [main] INFO Automationtesting - Entered city
+2024-03-01 16:52:47,747 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 16:52:47,815 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 16:52:50,068 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 16:52:55,206 [main] INFO Automationtesting - Verified! user logged in as User1362856753
+2024-03-01 16:52:56,470 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 16:53:03,100 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 16:53:03,142 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 16:53:03,176 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 16:53:03,202 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 16:53:03,226 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 16:53:03,265 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 16:53:03,307 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 16:53:03,359 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 16:53:03,408 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 16:53:03,458 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 16:53:03,490 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 16:53:03,515 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 16:53:03,539 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 16:53:03,567 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 16:53:05,531 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 16:53:11,896 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:53:19,534 [main] INFO Automationtesting - Home screen is visible scuccessfully
+2024-03-01 16:53:28,084 [main] INFO Automationtesting - Shopping Cart text is visible
+2024-03-01 16:53:30,289 [main] INFO Automationtesting - name is Entered
+2024-03-01 16:53:30,395 [main] INFO Automationtesting - email is Entered
+2024-03-01 16:53:33,502 [main] INFO Automationtesting - Verified! Enter account information text
+2024-03-01 16:53:34,469 [main] INFO Automationtesting - Date selected successfully
+2024-03-01 16:53:34,632 [main] INFO Automationtesting - Entered FirstName
+2024-03-01 16:53:34,691 [main] INFO Automationtesting - Entered LastName
+2024-03-01 16:53:34,770 [main] INFO Automationtesting - Entered Company
+2024-03-01 16:53:34,834 [main] INFO Automationtesting - Entered Address
+2024-03-01 16:53:34,903 [main] INFO Automationtesting - Entered Address2
+2024-03-01 16:53:35,038 [main] INFO Automationtesting - Country Selected
+2024-03-01 16:53:35,140 [main] INFO Automationtesting - Entered State
+2024-03-01 16:53:35,198 [main] INFO Automationtesting - Entered city
+2024-03-01 16:53:35,272 [main] INFO Automationtesting - Entered zipcode
+2024-03-01 16:53:35,340 [main] INFO Automationtesting - Entered mobilenumebr
+2024-03-01 16:53:37,831 [main] INFO Automationtesting - Verified! Account created
+2024-03-01 16:53:43,000 [main] INFO Automationtesting - Verified! user logged in as User686409143
+2024-03-01 16:53:52,597 [main] INFO Automationtesting - Mrs. test2 trial is same first and last name as filled at the time of registration
+2024-03-01 16:53:52,639 [main] INFO Automationtesting - boppo is same company as filled at the time of registration
+2024-03-01 16:53:52,685 [main] INFO Automationtesting - bhandup is same address as filled at the time of registration
+2024-03-01 16:53:52,734 [main] INFO Automationtesting - lbs road is same address 2 as filled at the time of registration
+2024-03-01 16:53:52,768 [main] INFO Automationtesting - mumbai maharashtra 400099 is same city as filled at the time of registration
+2024-03-01 16:53:52,813 [main] INFO Automationtesting - Canada is same country as filled at the time of registration
+2024-03-01 16:53:52,858 [main] INFO Automationtesting - 8765432345 is same mobile number as filled at the time of registration
+2024-03-01 16:54:04,309 [main] INFO Automationtesting - Verify success message 'Your order has been placed successfully!'
+2024-03-01 16:54:08,495 [main] INFO Automationtesting - Verify success message 'ACCOUNT DELETED!'
+2024-03-01 16:54:13,100 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:54:16,433 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:54:19,501 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:54:25,612 [main] INFO Automationtesting - text is visible
+2024-03-01 16:54:28,251 [main] INFO Automationtesting - Edge Browser Launched successfully
+2024-03-01 16:54:31,805 [main] INFO Automationtesting - home page is visible successfully
+2024-03-01 16:54:34,859 [main] INFO Automationtesting - SUBSCRIPTIONtext is visible
+2024-03-01 16:54:40,999 [main] INFO Automationtesting - Full-Fledged practice website for Automation Engineerstext is visible

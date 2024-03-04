@@ -50,6 +50,7 @@ public class TC_02_RegisterUser extends BaseClass{
         }
 		
 		//from page object class we have to import page object package
+        //ACCOUNT CREAte
 		LoginPage lp= new LoginPage(driver);
 		
 		String user = ""+ (int) (Math.random ()*Integer.MAX_VALUE); 
@@ -182,6 +183,9 @@ public class TC_02_RegisterUser extends BaseClass{
         	captureScreen(driver, "logintest");
             System.out.println("Text on the home screen does not match the expected text.");
         }
+        
+   //Delete Account
+        
         driver.findElement(By.xpath("//a[@href='/delete_account']")).click();
         
         String expectedText6 = "ACCOUNT DELETED!";

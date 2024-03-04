@@ -8,7 +8,7 @@
 	  <parameter name="browser" value="edge"></parameter>
     <classes>
    <class name="com.automationexerciseTestCases.BaseClass"/>  
-    <!-- <class name="com.automationexerciseTestCases.TC_01_LoginTest"/>
+   <class name="com.automationexerciseTestCases.TC_01_LoginTest"/>
          <class name="com.automationexerciseTestCases.TC_02_RegisterUser"/> 
          <class name="com.automationexerciseTestCases.TC_03_IncorrectLogin"/> 
          <class name="com.automationexerciseTestCases.TC_04_LogoutUser"/>
@@ -30,8 +30,17 @@
           <class name="com.automationexerciseTestCases.TC_17_RemoveProductFromCart"/>
           <class name="com.automationexerciseTestCases.TC_18_ViewCategoryProduct"/>   
           <class name="com.automationexerciseTestCases.TC_19_CartBrandProduct"/> 
-          <class name="com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin"/>-->
-                    <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct"/>
+          <class name="com.automationexerciseTestCases.TC_20_SearchProductAndVerifyCartAfterLogin"/>
+          
+          
+          <class name="com.automationexerciseTestCases.TC_21_AddReviewOnProduct"/>
+          <class name="com.automationexerciseTestCases.TC_22_AddToCartFromRecommendedItems"/>
+          <class name="com.automationexerciseTestCases.TC_23_VerifyAddressDetailsInCheckoutPage"/>
+          <class name="com.automationexerciseTestCases.TC_24_DownloadInvoiceAfterPurchaseOrder"/>
+          <class name="com.automationexerciseTestCases.TC_25_ScrollUpUsingArrowButton"/>
+          <class name="com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton"/>
+          
+ <!-- <class name="com.automationexerciseTestCases.TC_26_ScrollUpWithoutArrowButton"/>     -->               
 
 
 
